@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.733ea586.js",
-    "static/js/787.3aae86e5.chunk.js": "/static/js/787.3aae86e5.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.733ea586.js.map": "/static/js/main.733ea586.js.map",
-    "787.3aae86e5.chunk.js.map": "/static/js/787.3aae86e5.chunk.js.map"
+    "main.css": "/arreatsummitresurrected/static/css/main.073c9b0a.css",
+    "main.js": "/arreatsummitresurrected/static/js/main.9300c55f.js",
+    "static/js/787.3aae86e5.chunk.js": "/arreatsummitresurrected/static/js/787.3aae86e5.chunk.js",
+    "static/media/logo.svg": "/arreatsummitresurrected/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/arreatsummitresurrected/index.html",
+    "main.073c9b0a.css.map": "/arreatsummitresurrected/static/css/main.073c9b0a.css.map",
+    "main.9300c55f.js.map": "/arreatsummitresurrected/static/js/main.9300c55f.js.map",
+    "787.3aae86e5.chunk.js.map": "/arreatsummitresurrected/static/js/787.3aae86e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.733ea586.js"
+    "static/js/main.9300c55f.js"
   ]
 }
