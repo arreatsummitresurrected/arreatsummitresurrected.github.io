@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.733ea586.js",
-    "static/js/787.3aae86e5.chunk.js": "/static/js/787.3aae86e5.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.e7ee678d.css",
+    "main.js": "/static/js/main.f6e37757.js",
+    "static/media/home.jpg": "/static/media/home.cb373acf08ad3cf8bfb4.jpg",
+    "static/media/site-background.jpeg": "/static/media/site-background.3f9e2f7480a308f992f2.jpeg",
+    "static/media/title-backgound.jpeg": "/static/media/title-backgound.88e2a8cb47ae4db50ea0.jpeg",
+    "static/media/btn-hover.jpg": "/static/media/btn-hover.88831f9882f2e5f6f922.jpg",
+    "static/media/btn-selected.jpg": "/static/media/btn-selected.650444f892bc0cacc26e.jpg",
+    "static/media/btn.jpg": "/static/media/btn.3297bb44af4581e2f66b.jpg",
+    "static/media/btn-disabled.jpg": "/static/media/btn-disabled.9f0cd1f408a985894163.jpg",
+    "static/media/blizzard-font.woff2": "/static/media/blizzard-font.79393b607d2ce9be9e1b.woff2",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.733ea586.js.map": "/static/js/main.733ea586.js.map",
-    "787.3aae86e5.chunk.js.map": "/static/js/787.3aae86e5.chunk.js.map"
+    "main.e7ee678d.css.map": "/static/css/main.e7ee678d.css.map",
+    "main.f6e37757.js.map": "/static/js/main.f6e37757.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.733ea586.js"
+    "static/css/main.e7ee678d.css",
+    "static/js/main.f6e37757.js"
   ]
 }
