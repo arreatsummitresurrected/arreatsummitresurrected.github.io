@@ -1,0 +1,4959 @@
+{
+  "normal": {
+    "armor": {
+      "helms": {
+        "items": [
+          {
+            "Name": "Cap",
+            "Min/Max Defense": "3-5",
+            "Min Strength": "-",
+            "Durability": "12",
+            "Sockets": "2",
+            "Quality Level": "1"
+          },
+          {
+            "Name": "Skull Cap",
+            "Min/Max Defense": "8-11",
+            "Min Strength": "15",
+            "Durability": "18",
+            "Sockets": "2",
+            "Quality Level": "5"
+          },
+          {
+            "Name": "Helm",
+            "Min/Max Defense": "15-18",
+            "Min Strength": "26",
+            "Durability": "24",
+            "Sockets": "2",
+            "Quality Level": "11"
+          },
+          {
+            "Name": "Full Helm",
+            "Min/Max Defense": "23-26",
+            "Min Strength": "41",
+            "Durability": "30",
+            "Sockets": "2",
+            "Quality Level": "15"
+          },
+          {
+            "Name": "Great Helm",
+            "Min/Max Defense": "30-35",
+            "Min Strength": "63",
+            "Durability": "40",
+            "Sockets": "3",
+            "Quality Level": "23"
+          },
+          {
+            "Name": "Mask",
+            "Min/Max Defense": "9-27",
+            "Min Strength": "23",
+            "Durability": "20",
+            "Sockets": "3",
+            "Quality Level": "19"
+          },
+          {
+            "Name": "Crown",
+            "Min/Max Defense": "25-45",
+            "Min Strength": "55",
+            "Durability": "50",
+            "Sockets": "3",
+            "Quality Level": "29"
+          },
+          {
+            "Name": "Bone Helm",
+            "Min/Max Defense": "33-36",
+            "Min Strength": "25",
+            "Durability": "40",
+            "Sockets": "2",
+            "Quality Level": "22"
+          }
+        ]
+      },
+      "armor": {
+        "items": [
+          {
+            "Name": "Quilted Armor",
+            "Min/Max Defense": "8-11",
+            "Min Strength": "12",
+            "Durability": "20",
+            "Sockets": "2",
+            "Type": "Light",
+            "Quality Level": "1"
+          },
+          {
+            "Name": "Leather Armor",
+            "Min/Max Defense": "14-17",
+            "Min Strength": "15",
+            "Durability": "24",
+            "Sockets": "2",
+            "Type": "Light",
+            "Quality Level": "3"
+          },
+          {
+            "Name": "Hard Leather Armor",
+            "Min/Max Defense": "21-24",
+            "Min Strength": "20",
+            "Durability": "28",
+            "Sockets": "2",
+            "Type": "Light",
+            "Quality Level": "5"
+          },
+          {
+            "Name": "Studded Leather",
+            "Min/Max Defense": "32-35",
+            "Min Strength": "27",
+            "Durability": "32",
+            "Sockets": "2",
+            "Type": "Light",
+            "Quality Level": "8"
+          },
+          {
+            "Name": "Ring Mail",
+            "Min/Max Defense": "45-48",
+            "Min Strength": "36",
+            "Durability": "26",
+            "Sockets": "3",
+            "Type": "Medium",
+            "Quality Level": "11"
+          },
+          {
+            "Name": "Scale Mail",
+            "Min/Max Defense": "57-60",
+            "Min Strength": "44",
+            "Durability": "36",
+            "Sockets": "2",
+            "Type": "Heavy",
+            "Quality Level": "13"
+          },
+          {
+            "Name": "Breast Plate",
+            "Min/Max Defense": "65-68",
+            "Min Strength": "30",
+            "Durability": "50",
+            "Sockets": "3",
+            "Type": "Light",
+            "Quality Level": "18"
+          },
+          {
+            "Name": "Chain Mail",
+            "Min/Max Defense": "72-75",
+            "Min Strength": "48",
+            "Durability": "45",
+            "Sockets": "2",
+            "Type": "Medium",
+            "Quality Level": "15"
+          },
+          {
+            "Name": "Splint Mail",
+            "Min/Max Defense": "90-95",
+            "Min Strength": "51",
+            "Durability": "30",
+            "Sockets": "2",
+            "Type": "Medium",
+            "Quality Level": "20"
+          },
+          {
+            "Name": "Light Plate",
+            "Min/Max Defense": "90-107",
+            "Min Strength": "41",
+            "Durability": "60",
+            "Sockets": "3",
+            "Type": "Light",
+            "Quality Level": "35"
+          },
+          {
+            "Name": "Field Plate",
+            "Min/Max Defense": "101-105",
+            "Min Strength": "55",
+            "Durability": "48",
+            "Sockets": "2",
+            "Type": "Medium",
+            "Quality Level": "28"
+          },
+          {
+            "Name": "Plate Mail",
+            "Min/Max Defense": "108-116",
+            "Min Strength": "65",
+            "Durability": "60",
+            "Sockets": "2",
+            "Type": "Heavy",
+            "Quality Level": "24"
+          },
+          {
+            "Name": "Gothic Plate",
+            "Min/Max Defense": "128-135",
+            "Min Strength": "70",
+            "Durability": "55",
+            "Sockets": "4",
+            "Type": "Medium",
+            "Quality Level": "32"
+          },
+          {
+            "Name": "Full Plate Mail",
+            "Min/Max Defense": "150-161",
+            "Min Strength": "80",
+            "Durability": "70",
+            "Sockets": "4",
+            "Type": "Heavy",
+            "Quality Level": "37"
+          },
+          {
+            "Name": "Ancient Armor",
+            "Min/Max Defense": "218-233",
+            "Min Strength": "100",
+            "Durability": "60",
+            "Sockets": "4",
+            "Type": "Medium",
+            "Quality Level": "40"
+          }
+        ]
+      },
+      "shields": {
+        "items": [
+          {
+            "Name": "Buckler",
+            "Min/Max Defense": "4-6",
+            "Min Strength": "12",
+            "% Block": "[0]\nPal: 30%\nAma/Asn/Bar: 25%\nDru/Nec/Sor: 20%",
+            "Durability": "12",
+            "Sockets": "1",
+            "Paladin Smite Damage": "1 to 3",
+            "Type": "Light",
+            "Quality Level": "1"
+          },
+          {
+            "Name": "Small Shield",
+            "Min/Max Defense": "8-10",
+            "Min Strength": "22",
+            "% Block": "[5]\nPal: 35%\nAma/Asn/Bar: 30%\nDru/Nec/Sor: 25%",
+            "Durability": "16",
+            "Sockets": "2",
+            "Paladin Smite Damage": "2 to 3",
+            "Type": "Light",
+            "Quality Level": "5"
+          },
+          {
+            "Name": "Large Shield",
+            "Min/Max Defense": "12-14",
+            "Min Strength": "34",
+            "% Block": "[12]\nPal: 42%\nAma/Asn/Bar: 37%\nDru/Nec/Sor: 32%",
+            "Durability": "24",
+            "Sockets": "3",
+            "Paladin Smite Damage": "2 to 4",
+            "Type": "Medium",
+            "Quality Level": "11"
+          },
+          {
+            "Name": "Kite Shield",
+            "Min/Max Defense": "16-18",
+            "Min Strength": "47",
+            "% Block": "[8]\nPal: 38%\nAma/Asn/Bar: 33%\nDru/Nec/Sor: 28%",
+            "Durability": "30",
+            "Sockets": "3",
+            "Paladin Smite Damage": "2 to 5",
+            "Type": "Light",
+            "Quality Level": "15"
+          },
+          {
+            "Name": "Spiked Shield",
+            "Min/Max Defense": "15-25",
+            "Min Strength": "30",
+            "% Block": "[10]\nPal: 40%\nAma/Asn/Bar: 35%\nDru/Nec/Sor: 30%",
+            "Durability": "40",
+            "Sockets": "2",
+            "Paladin Smite Damage": "5 to 9",
+            "Type": "Light",
+            "Quality Level": "11"
+          },
+          {
+            "Name": "Tower Shield",
+            "Min/Max Defense": "22-25",
+            "Min Strength": "75",
+            "% Block": "[24]\nPal: 54%\nAma/Asn/Bar: 49%\nDru/Nec/Sor: 44%",
+            "Durability": "60",
+            "Sockets": "3",
+            "Paladin Smite Damage": "1 to 5",
+            "Type": "Heavy",
+            "Quality Level": "22"
+          },
+          {
+            "Name": "Bone Shield",
+            "Min/Max Defense": "10-30",
+            "Min Strength": "25",
+            "% Block": "[20]\nPal: 50%\nAma/Asn/Bar: 45%\nDru/Nec/Sor: 40%",
+            "Durability": "40",
+            "Sockets": "2",
+            "Paladin Smite Damage": "3 to 6",
+            "Type": "Light",
+            "Quality Level": "19"
+          },
+          {
+            "Name": "Gothic Shield",
+            "Min/Max Defense": "30-35",
+            "Min Strength": "60",
+            "% Block": "[16]\nPal: 46%\nAma/Asn/Bar: 41%\nDru/Nec/Sor: 36%",
+            "Durability": "40",
+            "Sockets": "3",
+            "Paladin Smite Damage": "2 to 6",
+            "Type": "Medium",
+            "Quality Level": "30"
+          }
+        ]
+      },
+      "gloves": {
+        "items": [
+          {
+            "Name": "Leather Gloves",
+            "Min/Max Defense": "2-3",
+            "Min Strength": "-",
+            "Durability": "12",
+            "Quality Level": "3"
+          },
+          {
+            "Name": "Heavy Gloves",
+            "Min/Max Defense": "5-6",
+            "Min Strength": "-",
+            "Durability": "14",
+            "Quality Level": "7"
+          },
+          {
+            "Name": "Chain Gloves",
+            "Min/Max Defense": "8-9",
+            "Min Strength": "25",
+            "Durability": "16",
+            "Quality Level": "12"
+          },
+          {
+            "Name": "Light Gauntlets",
+            "Min/Max Defense": "9-11",
+            "Min Strength": "45",
+            "Durability": "18",
+            "Quality Level": "20"
+          },
+          {
+            "Name": "Gauntlets",
+            "Min/Max Defense": "12-15",
+            "Min Strength": "60",
+            "Durability": "24",
+            "Quality Level": "27"
+          }
+        ]
+      },
+      "boots": {
+        "items": [
+          {
+            "Name": "Boots",
+            "Min/Max Defense": "2-3",
+            "Min Strength": "-",
+            "Durability": "12",
+            "Assassin Kick Damage": "3-8",
+            "Quality Level": "3"
+          },
+          {
+            "Name": "Heavy Boots",
+            "Min/Max Defense": "5-6",
+            "Min Strength": "18",
+            "Durability": "14",
+            "Assassin Kick Damage": "4-10",
+            "Quality Level": "7"
+          },
+          {
+            "Name": "Chain Boots",
+            "Min/Max Defense": "8-9",
+            "Min Strength": "30",
+            "Durability": "16",
+            "Assassin Kick Damage": "6-12",
+            "Quality Level": "12"
+          },
+          {
+            "Name": "Light Plated Boots",
+            "Min/Max Defense": "9-11",
+            "Min Strength": "50",
+            "Durability": "18",
+            "Assassin Kick Damage": "8-16",
+            "Quality Level": "20"
+          },
+          {
+            "Name": "Greaves",
+            "Min/Max Defense": "12-15",
+            "Min Strength": "70",
+            "Durability": "24",
+            "Assassin Kick Damage": "10-20",
+            "Quality Level": "27"
+          }
+        ]
+      },
+      "belts": {
+        "items": [
+          {
+            "Name": "Sash",
+            "Min/Max Defense": "2",
+            "Min Strength": "-",
+            "Durability": "12",
+            "#Boxes": "8",
+            "Quality Level": "3"
+          },
+          {
+            "Name": "Light Belt",
+            "Min/Max Defense": "3",
+            "Min Strength": "-",
+            "Durability": "14",
+            "#Boxes": "8",
+            "Quality Level": "7"
+          },
+          {
+            "Name": "Belt",
+            "Min/Max Defense": "5",
+            "Min Strength": "25",
+            "Durability": "16",
+            "#Boxes": "12",
+            "Quality Level": "12"
+          },
+          {
+            "Name": "Heavy Belt",
+            "Min/Max Defense": "6",
+            "Min Strength": "45",
+            "Durability": "18",
+            "#Boxes": "12",
+            "Quality Level": "20"
+          },
+          {
+            "Name": "Plated Belt",
+            "Min/Max Defense": "8-11",
+            "Min Strength": "60",
+            "Durability": "24",
+            "#Boxes": "16",
+            "Quality Level": "27"
+          }
+        ]
+      }
+    },
+    "weapons": {
+      "axes": {
+        "items": [
+          {
+            "Name": "Hand Axe",
+            "Min/Max 1h Damage": "3 to 6 (4.5 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "28",
+            "Sockets": "2",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, P - Fast\nS - Normal",
+            "Quality Level": "3"
+          },
+          {
+            "Name": "Axe",
+            "Min/Max 1h Damage": "4 to 11 (7.5 Avg)",
+            "Min Strength": "32",
+            "Min Dexterity": "-",
+            "Rangeadder": "1",
+            "Durability": "24",
+            "Sockets": "4",
+            "Speed by Class": "[10]\nAsn, P - Fast\nAma, B, D,N, S, - Normal",
+            "Quality Level": "7"
+          },
+          {
+            "Name": "Double Axe",
+            "Min/Max 1h Damage": "5 to 13 (9 Avg)",
+            "Min Strength": "43",
+            "Min Dexterity": "-",
+            "Rangeadder": "1",
+            "Durability": "24",
+            "Sockets": "5",
+            "Speed by Class": "[10]\nAsn, P - Fast\nAma, B, D, N, S, - Normal",
+            "Quality Level": "13"
+          },
+          {
+            "Name": "Military Pick",
+            "Min/Max 1h Damage": "7 to 11 (9 Avg)",
+            "Min Strength": "49",
+            "Min Dexterity": "33",
+            "Rangeadder": "1",
+            "Durability": "26",
+            "Sockets": "6",
+            "Speed by Class": "[-10]\nAsn, P - Very Fast\nAma, B, D, N, S, - Fast",
+            "Quality Level": "19"
+          },
+          {
+            "Name": "War Axe",
+            "Min/Max 1h Damage": "10 to 18 (14 Avg)",
+            "Min Strength": "67",
+            "Min Dexterity": "-",
+            "Rangeadder": "2",
+            "Durability": "26",
+            "Sockets": "6",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, P - Fast\nS - Normal",
+            "Quality Level": "25"
+          }
+        ]
+      },
+      "bows": {
+        "items": [
+          {
+            "Name": "Short Bow",
+            "Two-Hand Damage": "1 to 4 (2.5 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "15",
+            "Sockets": "3",
+            "Speed by Class": "[5]\nAma, Asn, B, D, P, S - Fast\nN - Normal",
+            "Quality Level": "1"
+          },
+          {
+            "Name": "Hunter's Bow",
+            "Two-Hand Damage": "2 to 6 (4 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "28",
+            "Sockets": "4",
+            "Speed by Class": "[-10]\nAma, B, D - Very Fast\nAsn, N, P, S - Fast",
+            "Quality Level": "5"
+          },
+          {
+            "Name": "Long Bow",
+            "Two-Hand Damage": "3 to 10 (6.5 Avg)",
+            "Min Strength": "22",
+            "Min Dexterity": "19",
+            "Sockets": "5",
+            "Speed by Class": "[0]\nAma, Asn, B, D, P, S - Fast\nN - Normal",
+            "Quality Level": "8"
+          },
+          {
+            "Name": "Composite Bow",
+            "Two-Hand Damage": "4 to 8 (6 Avg)",
+            "Min Strength": "25",
+            "Min Dexterity": "35",
+            "Sockets": "4",
+            "Speed by Class": "[-10]\nAma, B, D - Very Fast\nAsn, N, P, S - Fast",
+            "Quality Level": "12"
+          },
+          {
+            "Name": "Short Battle Bow",
+            "Two-Hand Damage": "5 to 11 (8 Avg)",
+            "Min Strength": "30",
+            "Min Dexterity": "40",
+            "Sockets": "5",
+            "Speed by Class": "[0]\nAma, Asn, B, D, P, S - Fast\nN - Normal",
+            "Quality Level": "18"
+          },
+          {
+            "Name": "Long Battle Bow",
+            "Two-Hand Damage": "3 to 18 (10.5 Avg)",
+            "Min Strength": "40",
+            "Min Dexterity": "50",
+            "Sockets": "6",
+            "Speed by Class": "[10]\nAma, B, D - Fast\nAsn, N, P, S - Normal",
+            "Quality Level": "23"
+          },
+          {
+            "Name": "Short War Bow",
+            "Two-Hand Damage": "6 to 14 (10 Avg)",
+            "Min Strength": "35",
+            "Min Dexterity": "55",
+            "Sockets": "5",
+            "Speed by Class": "[0]\nAma, Asn, B, D, P, S - Fast\nN - Normal",
+            "Quality Level": "27"
+          },
+          {
+            "Name": "Long War Bow",
+            "Two-Hand Damage": "3 to 23 (13 Avg)",
+            "Min Strength": "50",
+            "Min Dexterity": "65",
+            "Sockets": "6",
+            "Speed by Class": "[10]\nAma, B, D - Fast\nAsn, N, P, S - Normal",
+            "Quality Level": "31"
+          }
+        ]
+      },
+      "crossbows": {
+        "items": [
+          {
+            "Name": "Light Crossbow",
+            "Two-Hand Damage": "6 to 9 (7.5 Avg)",
+            "Min Strength": "21",
+            "Min Dexterity": "27",
+            "Sockets": "3",
+            "Speed by Class": "[-10]\nAma, Asn, B, D, N, P, S - Normal",
+            "Quality Level": "6"
+          },
+          {
+            "Name": "Crossbow",
+            "Two-Hand Damage": "9 to 16 (12.5 Avg)",
+            "Min Strength": "40",
+            "Min Dexterity": "33",
+            "Sockets": "4",
+            "Speed by Class": "[0]\nD, N, S - Normal\nAma, Asn, B, P - Slow",
+            "Quality Level": "15"
+          },
+          {
+            "Name": "Heavy Crossbow",
+            "Two-Hand Damage": "14 to 26 (20 Avg)",
+            "Min Strength": "60",
+            "Min Dexterity": "40",
+            "Sockets": "6",
+            "Speed by Class": "[10]\nB, D, N, P, S - Slow\nAma, Asn - Very Slow",
+            "Quality Level": "24"
+          },
+          {
+            "Name": "Repeating Crossbow",
+            "Two-Hand Damage": "6 to 12 (9 Avg)",
+            "Min Strength": "40",
+            "Min Dexterity": "50",
+            "Sockets": "5",
+            "Speed by Class": "[-40]\nD, N, S - Very Fast\nAma, Asn, B, P - Fast",
+            "Quality Level": "33"
+          }
+        ]
+      },
+      "daggers": {
+        "items": [
+          {
+            "Name": "Dagger",
+            "Min/Max Dagger Damage": "1 to 4 (2.5 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "16",
+            "Sockets": "1",
+            "Speed by Class": "[-20]\nAma, Asn, B, D, N, S - Very Fast\nP - Fast",
+            "Quality Level": "3"
+          },
+          {
+            "Name": "Dirk",
+            "Min/Max Dagger Damage": "3 to 9 (6 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "25",
+            "Rangeadder": "0",
+            "Durability": "20",
+            "Sockets": "1",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, S - Fast\nP - Normal",
+            "Quality Level": "9"
+          },
+          {
+            "Name": "Kris",
+            "Min/Max Dagger Damage": "2 to 11 (6.5 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "45",
+            "Rangeadder": "0",
+            "Durability": "24",
+            "Sockets": "3",
+            "Speed by Class": "[-20]\nAma, Asn, B, D, N, S - Very Fast\nP - Fast",
+            "Quality Level": "17"
+          },
+          {
+            "Name": "Blade",
+            "Min/Max Dagger Damage": "4 to 15 (9.5 Avg)",
+            "Min Strength": "35",
+            "Min Dexterity": "51",
+            "Rangeadder": "0",
+            "Durability": "24",
+            "Sockets": "2",
+            "Speed by Class": "[-10]\nAma, Asn - Very Fast\nB, D, N, P, S - Fast",
+            "Quality Level": "23"
+          }
+        ]
+      },
+      "javelins": {
+        "items": [
+          {
+            "Name": "Javelin",
+            "Throw Damage": "6 to 14 (10 Avg)",
+            "Min/Max 1h Damage": "1 to 5 (3 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Melee Rangeadder": "2",
+            "Max Stack": "60",
+            "Speed by Class": "[-10]\nAma, Asn - Very Fast\nB, D, N, P, S - Fast",
+            "Quality Level": "1"
+          },
+          {
+            "Name": "Pilum",
+            "Throw Damage": "7 to 20 (13.5 Avg)",
+            "Min/Max 1h Damage": "4 to 9 (6.5 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "45",
+            "Melee Rangeadder": "2",
+            "Max Stack": "50",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, S - Fast\nP - Normal",
+            "Quality Level": "10"
+          },
+          {
+            "Name": "Short Spear",
+            "Throw Damage": "10 to 22 (16 Avg)",
+            "Min/Max 1h Damage": "2 to 13 (7.5 Avg)",
+            "Min Strength": "40",
+            "Min Dexterity": "40",
+            "Melee Rangeadder": "2",
+            "Max Stack": "40",
+            "Speed by Class": "[10]\nAma, Asn - Fast\nB, D, N, P, S - Normal",
+            "Quality Level": "15"
+          },
+          {
+            "Name": "Glaive",
+            "Throw Damage": "16 to 22 (19 Avg)",
+            "Min/Max 1h Damage": "5 to 17 (11 Avg)",
+            "Min Strength": "52",
+            "Min Dexterity": "35",
+            "Melee Rangeadder": "2",
+            "Max Stack": "40",
+            "Speed by Class": "[20]\nAma, Asn - Normal\nB, D, N, P, S - Slow",
+            "Quality Level": "23"
+          },
+          {
+            "Name": "Throwing Spear",
+            "Throw Damage": "12 to 30 (21 Avg)",
+            "Min/Max 1h Damage": "5 to 15 (10 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "65",
+            "Melee Rangeadder": "2",
+            "Max Stack": "80",
+            "Speed by Class": "[-10]\nAma, Asn - Very Fast\nB, D, N, P, S - Fast",
+            "Quality Level": "29"
+          }
+        ]
+      },
+      "maces": {
+        "items": [
+          {
+            "Name": "Club",
+            "Min/Max 1h Damage": "1 to 6 (3.5 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "24",
+            "Sockets": "2",
+            "Speed by Class": "[-10]\nAsn, P - Very Fast\nAma, B, D, N, S - Fast",
+            "Quality Level": "1"
+          },
+          {
+            "Name": "Spiked Club",
+            "Min/Max 1h Damage": "5 to 8 (6.5 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "1",
+            "Durability": "36",
+            "Sockets": "2",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, P - Fast\nS - Normal",
+            "Quality Level": "4"
+          }
+        ]
+      },
+      "polearms": {
+        "items": [
+          {
+            "Name": "Bardiche",
+            "Two Hand Damage": "1 to 27 (14 Avg)",
+            "Min Strength": "40",
+            "Min Dexterity": "-",
+            "Rangeadder": "2",
+            "Durability": "50",
+            "Sockets": "3",
+            "Speed by Class": "[10]\nD - Fast\nN, S - Normal\nAma, Asn, B, P - Slow",
+            "Quality Level": "5"
+          },
+          {
+            "Name": "Voulge",
+            "Two Hand Damage": "6 to 21 (13.5 Avg)",
+            "Min Strength": "50",
+            "Min Dexterity": "-",
+            "Rangeadder": "2",
+            "Durability": "50",
+            "Sockets": "4",
+            "Speed by Class": "[0]\nD, S - Fast\nAsn, B, N, P - Normal\nAma - Slow",
+            "Quality Level": "11"
+          },
+          {
+            "Name": "Scythe",
+            "Two Hand Damage": "8 to 20 (14 Avg)",
+            "Min Strength": "41",
+            "Min Dexterity": "41",
+            "Rangeadder": "1",
+            "Durability": "65",
+            "Sockets": "5",
+            "Speed by Class": "[-10]\nD - Very Fast\nN, P, S - Fast\nAma, Asn, B - Normal",
+            "Quality Level": "15"
+          },
+          {
+            "Name": "Poleaxe",
+            "Two Hand Damage": "18 to 39 (28.5 Avg)",
+            "Min Strength": "62",
+            "Min Dexterity": "-",
+            "Rangeadder": "3",
+            "Durability": "65",
+            "Sockets": "5",
+            "Speed by Class": "[10]\nD - Fast\nN, S - Normal\nAma, Asn, B, P - Slow",
+            "Quality Level": "21"
+          },
+          {
+            "Name": "Halberd",
+            "Two Hand Damage": "12 to 45 (28.5 Avg)",
+            "Min Strength": "75",
+            "Min Dexterity": "47",
+            "Rangeadder": "4",
+            "Durability": "55",
+            "Sockets": "6",
+            "Speed by Class": "[0]\nD, S - Fast\nAsn, B, N, P - Normal\nAma - Slow",
+            "Quality Level": "29"
+          },
+          {
+            "Name": "War Scythe",
+            "Two Hand Damage": "15 to 36 (25.5 Avg)",
+            "Min Strength": "80",
+            "Min Dexterity": "80",
+            "Rangeadder": "4",
+            "Durability": "55",
+            "Sockets": "6",
+            "Speed by Class": "[-10]\nD - Very Fast\nN, P, S - Fast\nAma, Asn, B - Normal",
+            "Quality Level": "34"
+          }
+        ]
+      },
+      "scepters": {
+        "items": [
+          {
+            "Name": "Scepter",
+            "Min/Max 1h Damage": "6 to 11 (8.5 Avg)",
+            "Min Strength": "25",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "50",
+            "Sockets": "2",
+            "Speed for Paladin": "[0]\nFast",
+            "Quality Level": "3"
+          },
+          {
+            "Name": "Grand Scepter",
+            "Min/Max 1h Damage": "8 to 18 (13 Avg)",
+            "Min Strength": "37",
+            "Min Dexterity": "-",
+            "Rangeadder": "1",
+            "Durability": "60",
+            "Sockets": "3",
+            "Speed for Paladin": "[10]\nFast",
+            "Quality Level": "15"
+          },
+          {
+            "Name": "War Scepter",
+            "Min/Max 1h Damage": "10 to 17 (13.5 Avg)",
+            "Min Strength": "55",
+            "Min Dexterity": "-",
+            "Rangeadder": "1",
+            "Durability": "70",
+            "Sockets": "5",
+            "Speed for Paladin": "[-10]\nVery Fast",
+            "Quality Level": "21"
+          }
+        ]
+      },
+      "spears": {
+        "items": [
+          {
+            "Name": "Spear",
+            "Two Hand Damage": "3 to 15 (9 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "20",
+            "Rangeadder": "3",
+            "Durability": "30",
+            "Sockets": "3",
+            "Speed by Class": "[-10]\nAma - Fast\nB, D, N, P, S - Normal\nAsn - Slow",
+            "Quality Level": "5"
+          },
+          {
+            "Name": "Trident",
+            "Two Hand Damage": "9 to 15 (12 Avg)",
+            "Min Strength": "38",
+            "Min Dexterity": "24",
+            "Rangeadder": "3",
+            "Durability": "35",
+            "Sockets": "4",
+            "Speed by Class": "[0]\nAma, B - Normal\nD, N, P, S - Slow\nAsn - Very Slow",
+            "Quality Level": "9"
+          },
+          {
+            "Name": "Brandistock",
+            "Two Hand Damage": "7 to 17 (12 Avg)",
+            "Min Strength": "40",
+            "Min Dexterity": "50",
+            "Rangeadder": "4",
+            "Durability": "28",
+            "Sockets": "5",
+            "Speed by Class": "[-20]\nAma, B, D, P, S - Fast\nAsn, N - Normal",
+            "Quality Level": "16"
+          },
+          {
+            "Name": "Spetum",
+            "Two Hand Damage": "15 to 23 (19 Avg)",
+            "Min Strength": "54",
+            "Min Dexterity": "35",
+            "Rangeadder": "4",
+            "Durability": "28",
+            "Sockets": "6",
+            "Speed by Class": "[0]\nAma, B - Normal\nD, N, P, S - Slow\nAsn - Very Slow",
+            "Quality Level": "20"
+          },
+          {
+            "Name": "Pike",
+            "Two Hand Damage": "14 to 63 (38.5 Avg)",
+            "Min Strength": "60",
+            "Min Dexterity": "45",
+            "Rangeadder": "4",
+            "Durability": "25",
+            "Sockets": "6",
+            "Speed by Class": "[20]\nAma - Slow\nAsn, B, D, N, P, S - Very Slow",
+            "Quality Level": "24"
+          }
+        ]
+      },
+      "staves": {
+        "items": [
+          {
+            "Name": "Short Staff",
+            "Two Hand Damage": "1 to 5 (3 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "1",
+            "Durability": "20",
+            "Sockets": "2",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[-10]\nFast",
+            "Quality Level": "1"
+          },
+          {
+            "Name": "Long Staff",
+            "Two Hand Damage": "2 to 8 (5 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "1",
+            "Durability": "30",
+            "Sockets": "3",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[0]\nFast",
+            "Quality Level": "8"
+          },
+          {
+            "Name": "Gnarled Staff",
+            "Two Hand Damage": "4 to 12 (8 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "1",
+            "Durability": "35",
+            "Sockets": "4",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[10]\nNormal",
+            "Quality Level": "12"
+          },
+          {
+            "Name": "Battle Staff",
+            "Two Hand Damage": "6 to 13 (9.5 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "1",
+            "Durability": "40",
+            "Sockets": "4",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[0]\nFast",
+            "Quality Level": "17"
+          },
+          {
+            "Name": "War Staff",
+            "Two Hand Damage": "12 to 28 (20 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "1",
+            "Durability": "50",
+            "Sockets": "6",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[20]\nNormal",
+            "Quality Level": "24"
+          }
+        ]
+      },
+      "swords": {
+        "items": [
+          {
+            "Name": "Short Sword",
+            "Min/Max 1h Damage": "2 to 7 (4.5 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "24",
+            "Sockets": "2",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, P - Fast\nS - Normal",
+            "Quality Level": "1"
+          },
+          {
+            "Name": "Scimitar",
+            "Min/Max 1h Damage": "2 to 6 (4 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "21",
+            "Rangeadder": "0",
+            "Durability": "22",
+            "Sockets": "2",
+            "Speed by Class": "[-20]\nAma, Asn, B, D, N, P - Very Fast\nS - Fast",
+            "Quality Level": "5"
+          },
+          {
+            "Name": "Sabre",
+            "Min/Max 1h Damage": "3 to 8 (5.5 Avg)",
+            "Min Strength": "25",
+            "Min Dexterity": "25",
+            "Rangeadder": "0",
+            "Durability": "32",
+            "Sockets": "2",
+            "Speed by Class": "[-10]\nAsn, P - Very Fast\nAma, B, D, N, S - Fast",
+            "Quality Level": "8"
+          },
+          {
+            "Name": "Falchion",
+            "Min/Max 1h Damage": "9 to 17 (13 Avg)",
+            "Min Strength": "33",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "32",
+            "Sockets": "2",
+            "Speed by Class": "[20]\nAsn, P - Normal\nAma, B, D, N, S - Slow",
+            "Quality Level": "11"
+          },
+          {
+            "Name": "Crystal Sword",
+            "Min/Max 1h Damage": "5 to 15 (10 Avg)",
+            "Min Strength": "43",
+            "Min Dexterity": "-",
+            "Rangeadder": "1",
+            "Durability": "20",
+            "Sockets": "6",
+            "Speed by Class": "[0]\nAma, Asn, B, D, P, N - Fast\nS - Normal",
+            "Quality Level": "11"
+          },
+          {
+            "Name": "Broad Sword",
+            "Min/Max 1h Damage": "7 to 14 (10.5 Avg)",
+            "Min Strength": "48",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "32",
+            "Sockets": "4",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, P - Fast\nS - Normal",
+            "Quality Level": "15"
+          },
+          {
+            "Name": "Long Sword",
+            "Min/Max 1h Damage": "3 to 19 (11 Avg)",
+            "Min Strength": "55",
+            "Min Dexterity": "39",
+            "Rangeadder": "1",
+            "Durability": "44",
+            "Sockets": "4",
+            "Speed by Class": "[-10]\nAsn, P - Very Fast\nAma, B, D, N, S - Fast",
+            "Quality Level": "20"
+          },
+          {
+            "Name": "War Sword",
+            "Min/Max 1h Damage": "8 to 20 (14 Avg)",
+            "Min Strength": "71",
+            "Min Dexterity": "45",
+            "Rangeadder": "1",
+            "Durability": "44",
+            "Sockets": "3",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, P - Fast\nS - Normal",
+            "Quality Level": "27"
+          }
+        ]
+      },
+      "throwings": {
+        "items": [
+          {
+            "Name": "Throwing Knife",
+            "Throw Damage": "4 to 9 (6.5 Avg)",
+            "Min/Max 1h Damage": "2 to 3 (2.5 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "21",
+            "Melee Rangeadder": "0",
+            "Max Stack": "160",
+            "Class": "Dagger",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, S - Fast\nP - Normal",
+            "Quality Level": "2"
+          },
+          {
+            "Name": "Balanced Knife",
+            "Throw Damage": "6 to 11 (8.5 Avg)",
+            "Min/Max 1h Damage": "1 to 8 (4.5 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "51",
+            "Melee Rangeadder": "0",
+            "Max Stack": "160",
+            "Class": "Dagger",
+            "Speed by Class": "[-20]\nAma, Asn B, D, N, S - Very Fast\nP - Fast",
+            "Quality Level": "13"
+          },
+          {
+            "Name": "Throwing Axe",
+            "Throw Damage": "8 to 12 (10 Avg)",
+            "Min/Max 1h Damage": "4 to 7 (5.5 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "40",
+            "Melee Rangeadder": "0",
+            "Max Stack": "130",
+            "Class": "Axe",
+            "Speed by Class": "[10]\nAsn, P - Fast\nAma, B, D, N, S - Normal",
+            "Quality Level": "7"
+          },
+          {
+            "Name": "Balanced Axe",
+            "Throw Damage": "12 to 15 (13.5 Avg)",
+            "Min/Max 1h Damage": "5 to 10 (7.5 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "57",
+            "Melee Rangeadder": "0",
+            "Max Stack": "130",
+            "Class": "Axe",
+            "Speed by Class": "[-10]\nAsn, P - Very Fast\nAma, B, D, N, S - Fast",
+            "Quality Level": "16"
+          }
+        ]
+      },
+      "wands": {
+        "items": [
+          {
+            "Name": "Wand",
+            "Min/Max 1h Damage": "2 to 4 (3 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "15",
+            "Sockets": "1",
+            "Magic Level": "1",
+            "Speed for Necromancer": "[0]\nFast",
+            "Quality Level": "2"
+          },
+          {
+            "Name": "Yew Wand",
+            "Min/Max 1h Damage": "2 to 8 (5 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "15",
+            "Sockets": "1",
+            "Magic Level": "1",
+            "Speed for Necromancer": "[10]\nNormal",
+            "Quality Level": "12"
+          },
+          {
+            "Name": "Bone Wand",
+            "Min/Max 1h Damage": "3 to 7 (5 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "15",
+            "Sockets": "2",
+            "Magic Level": "1",
+            "Speed for Necromancer": "[-20]\nVery Fast",
+            "Quality Level": "18"
+          },
+          {
+            "Name": "Grim Wand",
+            "Min/Max 1h Damage": "5 to 11 (8 Avg)",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "15",
+            "Sockets": "2",
+            "Magic Level": "1",
+            "Speed for Necromancer": "[0]\nFast",
+            "Quality Level": "26"
+          }
+        ]
+      }
+    },
+    "class-specific-armor": {
+      "barbarian-helms": {
+        "items": [
+          {
+            "Name": "Jawbone Cap",
+            "Min/Max Defense": "10-15",
+            "Level Required": "3",
+            "Min Strength": "25",
+            "Durability": "25",
+            "Sockets": "3",
+            "Quality Level": "4"
+          },
+          {
+            "Name": "Fanged Helm",
+            "Min/Max Defense": "15-20",
+            "Level Required": "6",
+            "Min Strength": "35",
+            "Durability": "35",
+            "Sockets": "3",
+            "Quality Level": "8"
+          },
+          {
+            "Name": "Horned Helm",
+            "Min/Max Defense": "25-30",
+            "Level Required": "12",
+            "Min Strength": "45",
+            "Durability": "45",
+            "Sockets": "3",
+            "Quality Level": "16"
+          },
+          {
+            "Name": "Assault Helmet",
+            "Min/Max Defense": "30-35",
+            "Level Required": "15",
+            "Min Strength": "55",
+            "Durability": "50",
+            "Sockets": "3",
+            "Quality Level": "20"
+          },
+          {
+            "Name": "Avenger Guard",
+            "Min/Max Defense": "35-50",
+            "Level Required": "18",
+            "Min Strength": "65",
+            "Durability": "55",
+            "Sockets": "3",
+            "Quality Level": "24"
+          }
+        ]
+      },
+      "druid-pelts": {
+        "items": [
+          {
+            "Name": "Wolf Head",
+            "Min/Max Defense": "8-11",
+            "Level Required": "3",
+            "Min Strength": "16",
+            "Durability": "20",
+            "Sockets": "3",
+            "Quality Level": "4"
+          },
+          {
+            "Name": "Hawk Helm",
+            "Min/Max Defense": "4-15",
+            "Level Required": "6",
+            "Min Strength": "20",
+            "Durability": "20",
+            "Sockets": "3",
+            "Quality Level": "8"
+          },
+          {
+            "Name": "Antlers",
+            "Min/Max Defense": "18-24",
+            "Level Required": "12",
+            "Min Strength": "24",
+            "Durability": "20",
+            "Sockets": "3",
+            "Quality Level": "16"
+          },
+          {
+            "Name": "Falcon Mask",
+            "Min/Max Defense": "12-28",
+            "Level Required": "15",
+            "Min Strength": "28",
+            "Durability": "20",
+            "Sockets": "3",
+            "Quality Level": "20"
+          },
+          {
+            "Name": "Spirit Mask",
+            "Min/Max Defense": "22-35",
+            "Level Required": "18",
+            "Min Strength": "30",
+            "Durability": "20",
+            "Sockets": "3",
+            "Quality Level": "24"
+          }
+        ]
+      },
+      "paladin-shields": {
+        "items": [
+          {
+            "Name": "Targe",
+            "Min/Max Defense": "8-12",
+            "Level Requirement": "3",
+            "Min Strength": "16",
+            "Durability": "20",
+            "% Block": "[10]\n40%",
+            "Sockets": "4",
+            "Paladin Smite Damage": "2 to 6",
+            "Type": "Light",
+            "Quality Level": "4"
+          },
+          {
+            "Name": "Rondache",
+            "Min/Max Defense": "10-18",
+            "Level Requirement": "6",
+            "Min Strength": "26",
+            "Durability": "30",
+            "% Block": "[15]\n45%",
+            "Sockets": "4",
+            "Paladin Smite Damage": "2 to 8",
+            "Type": "Light",
+            "Quality Level": "8"
+          },
+          {
+            "Name": "Heraldic Shield",
+            "Min/Max Defense": "16-26",
+            "Level Requirement": "12",
+            "Min Strength": "40",
+            "Durability": "40",
+            "% Block": "[20]\n50%",
+            "Sockets": "4",
+            "Paladin Smite Damage": "3 to 9",
+            "Type": "Light",
+            "Quality Level": "16"
+          },
+          {
+            "Name": "Aerin Shield",
+            "Min/Max Defense": "26-36",
+            "Level Requirement": "15",
+            "Min Strength": "50",
+            "Durability": "50",
+            "% Block": "[22]\n52%",
+            "Sockets": "4",
+            "Paladin Smite Damage": "4 to 10",
+            "Type": "Light",
+            "Quality Level": "20"
+          },
+          {
+            "Name": "Crown Shield",
+            "Min/Max Defense": "30-40",
+            "Level Requirement": "18",
+            "Min Strength": "65",
+            "Durability": "60",
+            "% Block": "[25]\n55%",
+            "Sockets": "4",
+            "Paladin Smite Damage": "4 to 12",
+            "Type": "Light",
+            "Quality Level": "24"
+          }
+        ]
+      },
+      "necromancer-shrunken-heads": {
+        "items": [
+          {
+            "Name": "Preserved Head",
+            "Min/Max Defense": "2-5",
+            "Level Requirement": "3",
+            "Min Strength": "12",
+            "Durability": "20",
+            "% Block": "[3]\n23%",
+            "Sockets": "2",
+            "Type": "Light",
+            "Quality Level": "4"
+          },
+          {
+            "Name": "Zombie Head",
+            "Min/Max Defense": "4-8",
+            "Level Requirement": "6",
+            "Min Strength": "14",
+            "Durability": "20",
+            "% Block": "[5]\n25%",
+            "Sockets": "2",
+            "Type": "Light",
+            "Quality Level": "8"
+          },
+          {
+            "Name": "Unraveller Head",
+            "Min/Max Defense": "6-10",
+            "Level Requirement": "12",
+            "Min Strength": "18",
+            "Durability": "20",
+            "% Block": "[8]\n28%",
+            "Sockets": "2",
+            "Type": "Light",
+            "Quality Level": "16"
+          },
+          {
+            "Name": "Gargoyle Head",
+            "Min/Max Defense": "10-16",
+            "Level Requirement": "15",
+            "Min Strength": "20",
+            "Durability": "20",
+            "% Block": "[10]\n30%",
+            "Sockets": "2",
+            "Type": "Light",
+            "Quality Level": "20"
+          },
+          {
+            "Name": "Demon Head",
+            "Min/Max Defense": "15-20",
+            "Level Requirement": "18",
+            "Min Strength": "25",
+            "Durability": "20",
+            "% Block": "[12]\n32%",
+            "Sockets": "2",
+            "Type": "Light",
+            "Quality Level": "24"
+          }
+        ]
+      }
+    },
+    "class-specific-weapons": {
+      "amazon-weapons": {
+        "items": [
+          {
+            "Name": "Stag Bow",
+            "Two Hand Damage": "7 To 12 (9.5 Avg)",
+            "Level Requirement": "14",
+            "Min Strength": "30",
+            "Min Dexterity": "45",
+            "Sockets": "5",
+            "Class": "Bow",
+            "Speed for Amazon": "[0]\nFast",
+            "Quality Level": "18"
+          },
+          {
+            "Name": "Reflex Bow",
+            "Two Hand Damage": "9 To 19 (14 Avg)",
+            "Level Requirement": "20",
+            "Min Strength": "35",
+            "Min Dexterity": "60",
+            "Sockets": "5",
+            "Class": "Bow",
+            "Speed for Amazon": "[10]\nFast",
+            "Quality Level": "27"
+          }
+        ]
+      },
+      "assassin-katars": {
+        "items": [
+          {
+            "Name": "Katar",
+            "Min/Max 1h Damage": "4 To 7 (5.5 Avg)",
+            "Level Requirement": "1",
+            "Min Strength": "20",
+            "Min Dexterity": "20",
+            "Rangeadder": "1",
+            "Durability": "48",
+            "Sockets": "2",
+            "+Skills": "No",
+            "Speed for Assassin": "[-10]\nVery Fast",
+            "Quality Level": "1"
+          },
+          {
+            "Name": "Wrist Blade",
+            "Min/Max 1h Damage": "5 To 9 (7 Avg)",
+            "Level Requirement": "1",
+            "Min Strength": "33",
+            "Min Dexterity": "33",
+            "Rangeadder": "1",
+            "Durability": "52",
+            "Sockets": "2",
+            "+Skills": "No",
+            "Speed for Assassin": "[0]\nVery Fast",
+            "Quality Level": "9"
+          },
+          {
+            "Name": "Hatchet Hands",
+            "Min/Max 1h Damage": "2 To 15 (8.5 Avg)",
+            "Level Requirement": "1",
+            "Min Strength": "37",
+            "Min Dexterity": "37",
+            "Rangeadder": "1",
+            "Durability": "56",
+            "Sockets": "2",
+            "+Skills": "No",
+            "Speed for Assassin": "[10]\nFast",
+            "Quality Level": "12"
+          },
+          {
+            "Name": "Cestus",
+            "Min/Max 1h Damage": "7 To 15 (11 Avg)",
+            "Level Requirement": "1",
+            "Min Strength": "42",
+            "Min Dexterity": "42",
+            "Rangeadder": "1",
+            "Durability": "72",
+            "Sockets": "2",
+            "+Skills": "No",
+            "Speed for Assassin": "[0]\nVery Fast",
+            "Quality Level": "15"
+          },
+          {
+            "Name": "Claws",
+            "Min/Max 1h Damage": "8 To 15 (11.5 Avg)",
+            "Level Requirement": "1",
+            "Min Strength": "46",
+            "Min Dexterity": "46",
+            "Rangeadder": "1",
+            "Durability": "64",
+            "Sockets": "3",
+            "+Skills": "No",
+            "Speed for Assassin": "[-10]\nVery Fast",
+            "Quality Level": "18"
+          },
+          {
+            "Name": "Blade Talons",
+            "Min/Max 1h Damage": "10 To 14 (12 Avg)",
+            "Level Requirement": "1",
+            "Min Strength": "50",
+            "Min Dexterity": "50",
+            "Rangeadder": "1",
+            "Durability": "69",
+            "Sockets": "3",
+            "+Skills": "No",
+            "Speed for Assassin": "[-20]\nVery Fast",
+            "Quality Level": "21"
+          },
+          {
+            "Name": "Scissors Katar",
+            "Min/Max 1h Damage": "9 To 17 (13 Avg)",
+            "Level Requirement": "1",
+            "Min Strength": "55",
+            "Min Dexterity": "55",
+            "Rangeadder": "1",
+            "Durability": "68",
+            "Sockets": "3",
+            "+Skills": "No",
+            "Speed for Assassin": "[-10]\nVery Fast",
+            "Quality Level": "24"
+          }
+        ]
+      },
+      "sorceress-orbs": {
+        "items": [
+          {
+            "Name": "Eagle Orb",
+            "Min/Max 1h Damage": "2 To 5 (3.5 avg)",
+            "Level Requirement": "1",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "20",
+            "Sockets": "2",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[-10]\nFast",
+            "Quality Level": "1"
+          },
+          {
+            "Name": "Sacred Globe",
+            "Min/Max 1h Damage": "3 To 8 (5.5 avg)",
+            "Level Requirement": "1",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "30",
+            "Sockets": "2",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[-10]\nFast",
+            "Quality Level": "8"
+          },
+          {
+            "Name": "Smoked Sphere",
+            "Min/Max 1h Damage": "4 To 10 (7 avg)",
+            "Level Requirement": "8",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "35",
+            "Sockets": "2",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[0]\nNormal",
+            "Quality Level": "12"
+          },
+          {
+            "Name": "Clasped Orb",
+            "Min/Max 1h Damage": "5 To 12 (8.5 avg)",
+            "Level Requirement": "13",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "40",
+            "Sockets": "2",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[0]\nNormal",
+            "Quality Level": "17"
+          },
+          {
+            "Name": "Jared's Stone",
+            "Min/Max 1h Damage": "8 To 18 (13 avg)",
+            "Level Requirement": "18",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "50",
+            "Sockets": "3",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[10]\nNormal",
+            "Quality Level": "24"
+          }
+        ]
+      }
+    }
+  },
+  "exceptional": {
+    "armor": {
+      "helms": {
+        "items": [
+          {
+            "Name": "War Hat",
+            "Min/Max Defense": "45-53",
+            "Level Requirement": "22",
+            "Min Strength": "20",
+            "Durability": "12",
+            "Sockets": "2",
+            "Quality Level": "34"
+          },
+          {
+            "Name": "Sallet",
+            "Min/Max Defense": "52-62",
+            "Level Requirement": "25",
+            "Min Strength": "43",
+            "Durability": "18",
+            "Sockets": "2",
+            "Quality Level": "37"
+          },
+          {
+            "Name": "Casque",
+            "Min/Max Defense": "63-72",
+            "Level Requirement": "25",
+            "Min Strength": "59",
+            "Durability": "24",
+            "Sockets": "2",
+            "Quality Level": "42"
+          },
+          {
+            "Name": "Basinet",
+            "Min/Max Defense": "75-84",
+            "Level Requirement": "25",
+            "Min Strength": "82",
+            "Durability": "30",
+            "Sockets": "2",
+            "Quality Level": "45"
+          },
+          {
+            "Name": "Winged Helm",
+            "Min/Max Defense": "85-98",
+            "Level Requirement": "25",
+            "Min Strength": "115",
+            "Durability": "40",
+            "Sockets": "3",
+            "Quality Level": "51"
+          },
+          {
+            "Name": "Death Mask",
+            "Min/Max Defense": "54-86",
+            "Level Requirement": "25",
+            "Min Strength": "55",
+            "Durability": "20",
+            "Sockets": "3",
+            "Quality Level": "48"
+          },
+          {
+            "Name": "Grand Crown",
+            "Min/Max Defense": "78-113",
+            "Level Requirement": "25",
+            "Min Strength": "103",
+            "Durability": "50",
+            "Sockets": "3",
+            "Quality Level": "55"
+          },
+          {
+            "Name": "Grim Helm",
+            "Min/Max Defense": "60-125",
+            "Level Requirement": "25",
+            "Min Strength": "58",
+            "Durability": "40",
+            "Sockets": "2",
+            "Quality Level": "50"
+          }
+        ]
+      },
+      "armor": {
+        "items": [
+          {
+            "Name": "Ghost Armor",
+            "Min/Max Defense": "102-117",
+            "Level Requirement": "22",
+            "Min Strength": "38",
+            "Durability": "20",
+            "Sockets": "2",
+            "Type": "Light",
+            "Quality Level": "34"
+          },
+          {
+            "Name": "Serpentskin Armor",
+            "Min/Max Defense": "111-126",
+            "Level Requirement": "24",
+            "Min Strength": "43",
+            "Durability": "24",
+            "Sockets": "2",
+            "Type": "Light",
+            "Quality Level": "36"
+          },
+          {
+            "Name": "Demonhide Armor",
+            "Min/Max Defense": "122-136",
+            "Level Requirement": "25",
+            "Min Strength": "50",
+            "Durability": "28",
+            "Sockets": "2",
+            "Type": "Light",
+            "Quality Level": "37"
+          },
+          {
+            "Name": "Trellised Armor",
+            "Min/Max Defense": "138-153",
+            "Level Requirement": "25",
+            "Min Strength": "61",
+            "Durability": "32",
+            "Sockets": "2",
+            "Type": "Light",
+            "Quality Level": "40"
+          },
+          {
+            "Name": "Linked Mail",
+            "Min/Max Defense": "158-172",
+            "Level Requirement": "25",
+            "Min Strength": "74",
+            "Durability": "26",
+            "Sockets": "3",
+            "Type": "Medium",
+            "Quality Level": "42"
+          },
+          {
+            "Name": "Tigulated Mail",
+            "Min/Max Defense": "176-190",
+            "Level Requirement": "25",
+            "Min Strength": "86",
+            "Durability": "36",
+            "Sockets": "3",
+            "Type": "Heavy",
+            "Quality Level": "43"
+          },
+          {
+            "Name": "Cuirass",
+            "Min/Max Defense": "188-202",
+            "Level Requirement": "25",
+            "Min Strength": "65",
+            "Durability": "50",
+            "Sockets": "3",
+            "Type": "Light",
+            "Quality Level": "47"
+          },
+          {
+            "Name": "Mesh Armor",
+            "Min/Max Defense": "198-213",
+            "Level Requirement": "25",
+            "Min Strength": "92",
+            "Durability": "45",
+            "Sockets": "3",
+            "Type": "Medium",
+            "Quality Level": "45"
+          },
+          {
+            "Name": "Russet Armor",
+            "Min/Max Defense": "225-243",
+            "Level Requirement": "25",
+            "Min Strength": "97",
+            "Durability": "30",
+            "Sockets": "3",
+            "Type": "Medium",
+            "Quality Level": "49"
+          },
+          {
+            "Name": "Mage Plate",
+            "Min/Max Defense": "225-261",
+            "Level Requirement": "25",
+            "Min Strength": "55",
+            "Durability": "60",
+            "Sockets": "3",
+            "Type": "Light",
+            "Quality Level": "60"
+          },
+          {
+            "Name": "Sharktooth Armor",
+            "Min/Max Defense": "242-258",
+            "Level Requirement": "25",
+            "Min Strength": "103",
+            "Durability": "48",
+            "Sockets": "3",
+            "Type": "Medium",
+            "Quality Level": "55"
+          },
+          {
+            "Name": "Templar Coat",
+            "Min/Max Defense": "252-274",
+            "Level Requirement": "25",
+            "Min Strength": "118",
+            "Durability": "60",
+            "Sockets": "3",
+            "Type": "Heavy",
+            "Quality Level": "52"
+          },
+          {
+            "Name": "Embossed Plate",
+            "Min/Max Defense": "282-303",
+            "Level Requirement": "25",
+            "Min Strength": "125",
+            "Durability": "55",
+            "Sockets": "4",
+            "Type": "Medium",
+            "Quality Level": "58"
+          },
+          {
+            "Name": "Chaos Armor",
+            "Min/Max Defense": "315-342",
+            "Level Requirement": "25",
+            "Min Strength": "140",
+            "Durability": "70",
+            "Sockets": "4",
+            "Type": "Heavy",
+            "Quality Level": "61"
+          },
+          {
+            "Name": "Ornate Plate",
+            "Min/Max Defense": "417-450",
+            "Level Requirement": "25",
+            "Min Strength": "170",
+            "Durability": "60",
+            "Sockets": "4",
+            "Type": "Medium",
+            "Quality Level": "64"
+          }
+        ]
+      },
+      "shields": {
+        "items": [
+          {
+            "Name": "Defender",
+            "Min/Max Defense": "41-49",
+            "Level Requirement": "22",
+            "Min Strength": "38",
+            "% Block": "[10]\nPal: 40%\nAma/Asn/Bar: 35%\nDru/Nec/Sor: 30%",
+            "Durability": "68",
+            "Sockets": "1",
+            "Paladin Smite Damage": "8 to 12",
+            "Type": "Light",
+            "Quality Level": "34"
+          },
+          {
+            "Name": "Round Shield",
+            "Min/Max Defense": "47-55",
+            "Level Requirement": "25",
+            "Min Strength": "53",
+            "% Block": "[12]\nPal: 42%\nAma/Asn/Bar: 37%\nDru/Nec/Sor: 32%",
+            "Durability": "64",
+            "Sockets": "2",
+            "Paladin Smite Damage": "7 to 14",
+            "Type": "Light",
+            "Quality Level": "37"
+          },
+          {
+            "Name": "Scutum",
+            "Min/Max Defense": "53-61",
+            "Level Requirement": "25",
+            "Min Strength": "71",
+            "% Block": "[14]\nPal: 44%\nAma/Asn/Bar: 39%\nDru/Nec/Sor: 34%",
+            "Durability": "62",
+            "Sockets": "3",
+            "Paladin Smite Damage": "11 to 15",
+            "Type": "Medium",
+            "Quality Level": "42"
+          },
+          {
+            "Name": "Barbed Shield",
+            "Min/Max Defense": "58-78",
+            "Level Requirement": "25",
+            "Min Strength": "65",
+            "% Block": "[17]\nPal: 47%\nAma/Asn/Bar: 42%\nDru/Nec/Sor: 37%",
+            "Durability": "55",
+            "Sockets": "2",
+            "Paladin Smite Damage": "18 to 35",
+            "Type": "Light",
+            "Quality Level": "42"
+          },
+          {
+            "Name": "Dragon Shield",
+            "Min/Max Defense": "59-67",
+            "Level Requirement": "25",
+            "Min Strength": "91",
+            "% Block": "[18]\nPal: 48%\nAma/Asn/Bar: 43%\nDru/Nec/Sor: 38%",
+            "Durability": "76",
+            "Sockets": "3",
+            "Paladin Smite Damage": "15 to 24",
+            "Type": "Light",
+            "Quality Level": "45"
+          },
+          {
+            "Name": "Grim Shield",
+            "Min/Max Defense": "50-150",
+            "Level Requirement": "25",
+            "Min Strength": "58",
+            "% Block": "[20]\nPal: 50%\nAma/Asn/Bar: 45%\nDru/Nec/Sor: 40%",
+            "Durability": "70",
+            "Sockets": "2",
+            "Paladin Smite Damage": "14 to 20",
+            "Type": "Light",
+            "Quality Level": "48"
+          },
+          {
+            "Name": "Pavise",
+            "Min/Max Defense": "68-78",
+            "Level Requirement": "25",
+            "Min Strength": "133",
+            "% Block": "[24]\nPal: 54%\nAma/Asn/Bar: 49%\nDru/Nec/Sor: 44%",
+            "Durability": "72",
+            "Sockets": "3",
+            "Paladin Smite Damage": "10 to 17",
+            "Type": "Heavy",
+            "Quality Level": "50"
+          },
+          {
+            "Name": "Ancient Shield",
+            "Min/Max Defense": "80-93",
+            "Level Requirement": "25",
+            "Min Strength": "110",
+            "% Block": "[16]\nPal: 46%\nAma/Asn/Bar: 41%\nDru/Nec/Sor: 36%",
+            "Durability": "80",
+            "Sockets": "3",
+            "Paladin Smite Damage": "12 to 16",
+            "Type": "Medium",
+            "Quality Level": "56"
+          }
+        ]
+      },
+      "gloves": {
+        "items": [
+          {
+            "Name": "Demonhide Gloves",
+            "Min/Max Defense": "28-35",
+            "Level Requirement": "21",
+            "Min Strength": "20",
+            "Durability": "12",
+            "Quality Level": "33"
+          },
+          {
+            "Name": "Sharkskin Gloves",
+            "Min/Max Defense": "33-39",
+            "Level Requirement": "25",
+            "Min Strength": "20",
+            "Durability": "14",
+            "Quality Level": "39"
+          },
+          {
+            "Name": "Heavy Bracers",
+            "Min/Max Defense": "37-44",
+            "Level Requirement": "25",
+            "Min Strength": "58",
+            "Durability": "16",
+            "Quality Level": "43"
+          },
+          {
+            "Name": "Battle Gauntlets",
+            "Min/Max Defense": "39-47",
+            "Level Requirement": "25",
+            "Min Strength": "88",
+            "Durability": "18",
+            "Quality Level": "49"
+          },
+          {
+            "Name": "War Gauntlets",
+            "Min/Max Defense": "43-53",
+            "Level Requirement": "25",
+            "Min Strength": "110",
+            "Durability": "24",
+            "Quality Level": "54"
+          }
+        ]
+      },
+      "boots": {
+        "items": [
+          {
+            "Name": "Demonhide Boots",
+            "Min/Max Defense": "28-35",
+            "Level Requirement": "24",
+            "Min Strength": "20",
+            "Durability": "12",
+            "Assassin Kick Damage": "26-46",
+            "Quality Level": "36"
+          },
+          {
+            "Name": "Sharkskin Boots",
+            "Min/Max Defense": "33-39",
+            "Level Requirement": "25",
+            "Min Strength": "47",
+            "Durability": "14",
+            "Assassin Kick Damage": "28-50",
+            "Quality Level": "39"
+          },
+          {
+            "Name": "Mesh Boots",
+            "Min/Max Defense": "37-44",
+            "Level Requirement": "25",
+            "Min Strength": "65",
+            "Durability": "16",
+            "Assassin Kick Damage": "23-52",
+            "Quality Level": "43"
+          },
+          {
+            "Name": "Battle Boots",
+            "Min/Max Defense": "39-47",
+            "Level Requirement": "25",
+            "Min Strength": "95",
+            "Durability": "18",
+            "Assassin Kick Damage": "37-64",
+            "Quality Level": "49"
+          },
+          {
+            "Name": "War Boots",
+            "Min/Max Defense": "43-53",
+            "Level Requirement": "25",
+            "Min Strength": "125",
+            "Durability": "24",
+            "Assassin Kick Damage": "39-80",
+            "Quality Level": "54"
+          }
+        ]
+      },
+      "belts": {
+        "items": [
+          {
+            "Name": "Demonhide Sash",
+            "Min/Max Defense": "29-34",
+            "Level Requirement": "24",
+            "Min Strength": "20",
+            "Durability": "12",
+            "#Boxes": "16",
+            "Quality Level": "36"
+          },
+          {
+            "Name": "Sharkskin Belt",
+            "Min/Max Defense": "31-36",
+            "Level Requirement": "25",
+            "Min Strength": "20",
+            "Durability": "14",
+            "#Boxes": "16",
+            "Quality Level": "39"
+          },
+          {
+            "Name": "Mesh Belt",
+            "Min/Max Defense": "35-40",
+            "Level Requirement": "25",
+            "Min Strength": "58",
+            "Durability": "16",
+            "#Boxes": "16",
+            "Quality Level": "43"
+          },
+          {
+            "Name": "Battle Belt",
+            "Min/Max Defense": "37-42",
+            "Level Requirement": "25",
+            "Min Strength": "88",
+            "Durability": "18",
+            "#Boxes": "16",
+            "Quality Level": "49"
+          },
+          {
+            "Name": "War Belt",
+            "Min/Max Defense": "41-52",
+            "Level Requirement": "25",
+            "Min Strength": "110",
+            "Durability": "24",
+            "#Boxes": "16",
+            "Quality Level": "54"
+          }
+        ]
+      }
+    },
+    "weapons": {
+      "axes": {
+        "items": [
+          {
+            "Name": "Hatchet",
+            "Min/Max 1h Damage": "10 to 21 (15.5 Avg)",
+            "Level Requirement": "19",
+            "Min Strength": "25",
+            "Min Dexterity": "25",
+            "Rangeadder": "0",
+            "Durability": "28",
+            "Sockets": "2",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, P - Fast\nS - Normal",
+            "Quality Level": "31"
+          },
+          {
+            "Name": "Cleaver",
+            "Min/Max 1h Damage": "10 to 33 (21.5 Avg)",
+            "Level Requirement": "22",
+            "Min Strength": "68",
+            "Min Dexterity": "-",
+            "Rangeadder": "1",
+            "Durability": "24",
+            "Sockets": "4",
+            "Speed by Class": "[10]\nAsn, P - Fast\nAma, B, D,N, S, - Normal",
+            "Quality Level": "34"
+          },
+          {
+            "Name": "Twin Axe",
+            "Min/Max 1h Damage": "13 to 38 (25.5 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "85",
+            "Min Dexterity": "-",
+            "Rangeadder": "1",
+            "Durability": "24",
+            "Sockets": "5",
+            "Speed by Class": "[10]\nAsn, P - Fast\nAma, B, D, N, S, - Normal",
+            "Quality Level": "39"
+          },
+          {
+            "Name": "Crowbill",
+            "Min/Max 1h Damage": "14 to 34 (24 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "94",
+            "Min Dexterity": "70",
+            "Rangeadder": "1",
+            "Durability": "26",
+            "Sockets": "6",
+            "Speed by Class": "[-10]\nAsn, P - Very Fast\nAma, B, D, N, S, - Fast",
+            "Quality Level": "43"
+          },
+          {
+            "Name": "Naga",
+            "Min/Max 1h Damage": "16 to 45 (30.5 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "121",
+            "Min Dexterity": "-",
+            "Rangeadder": "2",
+            "Durability": "26",
+            "Sockets": "6",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, P - Fast\nS - Normal",
+            "Quality Level": "48"
+          }
+        ]
+      },
+      "bows": {
+        "items": [
+          {
+            "Name": "Edge Bow",
+            "Two-Hand Damage": "6 to 19 (12.5 Avg)",
+            "Level Requirement": "18",
+            "Min Strength": "25",
+            "Min Dexterity": "43",
+            "Sockets": "3",
+            "Speed by Class": "[5]\nAma, Asn, B, D, P, S - Fast\nN - Normal",
+            "Quality Level": "30"
+          },
+          {
+            "Name": "Razor Bow",
+            "Two-Hand Damage": "8 to 22 (15 Avg)",
+            "Level Requirement": "21",
+            "Min Strength": "25",
+            "Min Dexterity": "62",
+            "Sockets": "4",
+            "Speed by Class": "[-10]\nAma, B, D - Very Fast\nAsn, N, P, S - Fast",
+            "Quality Level": "33"
+          },
+          {
+            "Name": "Cedar Bow",
+            "Two-Hand Damage": "10 to 29 (19.5 Avg)",
+            "Level Requirement": "23",
+            "Min Strength": "53",
+            "Min Dexterity": "49",
+            "Sockets": "5",
+            "Speed by Class": "[0]\nAma, Asn, B, D, P, S - Fast\nN - Normal",
+            "Quality Level": "35"
+          },
+          {
+            "Name": "Double Bow",
+            "Two-Hand Damage": "11 to 26 (18.5 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "58",
+            "Min Dexterity": "73",
+            "Sockets": "4",
+            "Speed by Class": "[-10]\nAma, B, D - Very Fast\nAsn, N, P, S - Fast",
+            "Quality Level": "39"
+          },
+          {
+            "Name": "Short Siege Bow",
+            "Two-Hand Damage": "13 to 30 (21.5 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "65",
+            "Min Dexterity": "80",
+            "Sockets": "5",
+            "Speed by Class": "[0]\nAma, Asn, B, D, P, S - Fast\nN - Normal",
+            "Quality Level": "43"
+          },
+          {
+            "Name": "Large Siege Bow",
+            "Two-Hand Damage": "10 to 42 (26 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "80",
+            "Min Dexterity": "95",
+            "Sockets": "6",
+            "Speed by Class": "[10]\nAma, B, D - Fast\nAsn, N, P, S - Normal",
+            "Quality Level": "46"
+          },
+          {
+            "Name": "Rune Bow",
+            "Two-Hand Damage": "14 to 35 (24.5 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "73",
+            "Min Dexterity": "103",
+            "Sockets": "5",
+            "Speed by Class": "[0]\nAma, Asn, B, D, P, S - Fast\nN - Normal",
+            "Quality Level": "49"
+          },
+          {
+            "Name": "Gothic Bow",
+            "Two-Hand Damage": "10 to 50 (30 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "95",
+            "Min Dexterity": "118",
+            "Sockets": "6",
+            "Speed by Class": "[10]\nAma, B, D - Fast\nAsn, N, P, S - Normal",
+            "Quality Level": "52"
+          }
+        ]
+      },
+      "crossbows": {
+        "items": [
+          {
+            "Name": "Arbalest",
+            "Two-Hand Damage": "14 to 27 (20.5 Avg)",
+            "Level Requirement": "22",
+            "Min Strength": "52",
+            "Min Dexterity": "61",
+            "Sockets": "3",
+            "Speed by Class": "[-10]\nAma, Asn, B, D, N, P, S - Normal",
+            "Quality Level": "34"
+          },
+          {
+            "Name": "Siege Crossbow",
+            "Two-Hand Damage": "20 to 42 (31 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "80",
+            "Min Dexterity": "70",
+            "Sockets": "4",
+            "Speed by Class": "[0]\nD, N, S - Normal\nAma, Asn, B, P - Slow",
+            "Quality Level": "40"
+          },
+          {
+            "Name": "Ballista",
+            "Two-Hand Damage": "33 to 55 (44 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "110",
+            "Min Dexterity": "80",
+            "Sockets": "6",
+            "Speed by Class": "[10]\nB, D, N, P, S - Slow\nAma, Asn - Very Slow",
+            "Quality Level": "47"
+          },
+          {
+            "Name": "Chu-Ko-Nu",
+            "Two-Hand Damage": "14 to 32 (23 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "80",
+            "Min Dexterity": "95",
+            "Sockets": "5",
+            "Speed by Class": "[-60]\nAma, Asn, B, D, N, P, S - Very Fast",
+            "Quality Level": "54"
+          }
+        ]
+      },
+      "daggers": {
+        "items": [
+          {
+            "Name": "Poignard",
+            "Min/Max Dagger Damage": "6 to 18 (12 Avg)",
+            "Level Requirement": "19",
+            "Min Strength": "25",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "16",
+            "Sockets": "1",
+            "Speed by Class": "[-20]\nAma, Asn, B, D, N, S - Very Fast\nP - Fast",
+            "Quality Level": "31"
+          },
+          {
+            "Name": "Rondel",
+            "Min/Max Dagger Damage": "10 to 26 (18 Avg)",
+            "Level Requirement": "24",
+            "Min Strength": "25",
+            "Min Dexterity": "58",
+            "Rangeadder": "0",
+            "Durability": "20",
+            "Sockets": "1",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, S - Fast\nP - Normal",
+            "Quality Level": "36"
+          },
+          {
+            "Name": "Cinquedeas",
+            "Min/Max Dagger Damage": "15 to 31 (23 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "25",
+            "Min Dexterity": "88",
+            "Rangeadder": "0",
+            "Durability": "24",
+            "Sockets": "3",
+            "Speed by Class": "[-20]\nAma, Asn, B, D, N, S - Very Fast\nP - Fast",
+            "Quality Level": "42"
+          },
+          {
+            "Name": "Stiletto",
+            "Min/Max Dagger Damage": "19 to 36 (27.5 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "47",
+            "Min Dexterity": "97",
+            "Rangeadder": "0",
+            "Durability": "24",
+            "Sockets": "2",
+            "Speed by Class": "[-10]\nAma, Asn - Very Fast\nB, D, N, P, S - Fast",
+            "Quality Level": "46"
+          }
+        ]
+      },
+      "javelins": {
+        "items": [
+          {
+            "Name": "War Javelin",
+            "Throw Damage": "14 to 32 (23 Avg)",
+            "Min/Max 1h Damage": "6 to 19 (12.5 Avg)",
+            "Level Requirement": "18",
+            "Min Strength": "25",
+            "Min Dexterity": "25",
+            "Melee Rangeadder": "2",
+            "Max Stack": "60",
+            "Speed by Class": "[-10]\nAma, Asn - Very Fast\nB, D, N, P, S - Fast",
+            "Quality Level": "30"
+          },
+          {
+            "Name": "Great Pilum",
+            "Throw Damage": "16 to 42 (29 Avg)",
+            "Min/Max 1h Damage": "11 to 26 (18.5 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "25",
+            "Min Dexterity": "88",
+            "Melee Rangeadder": "2",
+            "Max Stack": "50",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, S - Fast\nP - Normal",
+            "Quality Level": "37"
+          },
+          {
+            "Name": "Simbilan",
+            "Throw Damage": "27 to 50 (38.5 Avg)",
+            "Min/Max 1h Damage": "8 to 32 (20 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "80",
+            "Min Dexterity": "80",
+            "Melee Rangeadder": "2",
+            "Max Stack": "40",
+            "Speed by Class": "[10]\nAma, Asn - Fast\nB, D, N, P, S - Normal",
+            "Quality Level": "40"
+          },
+          {
+            "Name": "Spiculum",
+            "Throw Damage": "32 to 60 (46 Avg)",
+            "Min/Max 1h Damage": "13 to 38 (25.5 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "98",
+            "Min Dexterity": "73",
+            "Melee Rangeadder": "2",
+            "Max Stack": "20",
+            "Speed by Class": "[20]\nAma, Asn - Normal\nB, D, N, P, S - Slow",
+            "Quality Level": "46"
+          },
+          {
+            "Name": "Harpoon",
+            "Throw Damage": "18 to 54 (36 Avg)",
+            "Min/Max 1h Damage": "13 to 35 (24 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "25",
+            "Min Dexterity": "118",
+            "Melee Rangeadder": "2",
+            "Max Stack": "80",
+            "Speed by Class": "[-10]\nAma, Asn - Very Fast\nB, D, N, P, S - Fast",
+            "Quality Level": "51"
+          }
+        ]
+      },
+      "maces": {
+        "items": [
+          {
+            "Name": "Cudgel",
+            "Min/Max 1h Damage": "6 to 21 (13.5 Avg)",
+            "Level Requirement": "18",
+            "Min Strength": "25",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "24",
+            "Sockets": "2",
+            "Speed by Class": "[-10]\nAsn, P - Very Fast\nAma, B, D, N, S - Fast",
+            "Quality Level": "30"
+          },
+          {
+            "Name": "Barbed Club",
+            "Min/Max 1h Damage": "13 to 25 (19 Avg)",
+            "Level Requirement": "20",
+            "Min Strength": "30",
+            "Min Dexterity": "-",
+            "Rangeadder": "1",
+            "Durability": "36",
+            "Sockets": "3",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, P - Fast\nS - Normal",
+            "Quality Level": "32"
+          }
+        ]
+      },
+      "polearms": {
+        "items": [
+          {
+            "Name": "Lochaber Axe",
+            "Two Hand Damage": "6 to 58 (32 Avg)",
+            "Level Requirement": "21",
+            "Min Strength": "80",
+            "Min Dexterity": "-",
+            "Rangeadder": "2",
+            "Durability": "50",
+            "Sockets": "3",
+            "Speed by Class": "[10]\nD - Fast\nN, S - Normal\nAma, Asn, B, P - Slow",
+            "Quality Level": "33"
+          },
+          {
+            "Name": "Bill",
+            "Two Hand Damage": "14 to 53 (33.5 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "95",
+            "Min Dexterity": "-",
+            "Rangeadder": "2",
+            "Durability": "50",
+            "Sockets": "4",
+            "Speed by Class": "[0]\nD, S - Fast\nAsn, B, N, P - Normal\nAma - Slow",
+            "Quality Level": "37"
+          },
+          {
+            "Name": "Battle Scythe",
+            "Two Hand Damage": "18 to 45 (31.5 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "82",
+            "Min Dexterity": "82",
+            "Rangeadder": "1",
+            "Durability": "65",
+            "Sockets": "5",
+            "Speed by Class": "[-10]\nD - Very Fast\nN, P, S - Fast\nAma, Asn, B - Normal",
+            "Quality Level": "40"
+          },
+          {
+            "Name": "Partizan",
+            "Two Hand Damage": "34 to 75 (54.5 Avg)",
+            "Level Requirement": "23",
+            "Min Strength": "113",
+            "Min Dexterity": "67",
+            "Rangeadder": "3",
+            "Durability": "65",
+            "Sockets": "5",
+            "Speed by Class": "[10]\nD - Fast\nN, S - Normal\nAma, Asn, B, P - Slow",
+            "Quality Level": "35"
+          },
+          {
+            "Name": "Bec-De-Corbin",
+            "Two Hand Damage": "13 to 85 (49 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "133",
+            "Min Dexterity": "91",
+            "Rangeadder": "4",
+            "Durability": "55",
+            "Sockets": "6",
+            "Speed by Class": "[0]\nD, S - Fast\nAsn, B, N, P - Normal\nAma - Slow",
+            "Quality Level": "51"
+          },
+          {
+            "Name": "Grim Scythe",
+            "Two Hand Damage": "30 to 70 (50 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "140",
+            "Min Dexterity": "140",
+            "Rangeadder": "4",
+            "Durability": "55",
+            "Sockets": "6",
+            "Speed by Class": "[-10]\nD - Very Fast\nN, P, S - Fast\nAma, Asn, B - Normal",
+            "Quality Level": "55"
+          }
+        ]
+      },
+      "scepters": {
+        "items": [
+          {
+            "Name": "Rune Scepter",
+            "Min/Max 1h Damage": "13 to 24 (18.5 Avg)",
+            "Level Requirement": "19",
+            "Min Strength": "58",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "50",
+            "Sockets": "2",
+            "Speed for Paladin": "[0]\nFast",
+            "Quality Level": "31"
+          },
+          {
+            "Name": "Holy Water Sprinkler",
+            "Min/Max 1h Damage": "14 to 36 (25 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "76",
+            "Min Dexterity": "-",
+            "Rangeadder": "1",
+            "Durability": "60",
+            "Sockets": "3",
+            "Speed for Paladin": "[10]\nFast",
+            "Quality Level": "40"
+          },
+          {
+            "Name": "Divine Scepter",
+            "Min/Max 1h Damage": "16 to 38 (27 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "103",
+            "Min Dexterity": "-",
+            "Rangeadder": "1",
+            "Durability": "70",
+            "Sockets": "5",
+            "Speed for Paladin": "[-10]\nVery Fast",
+            "Quality Level": "45"
+          }
+        ]
+      },
+      "spears": {
+        "items": [
+          {
+            "Name": "War Spear",
+            "Two Hand Damage": "10 to 37 (23.5 Avg)",
+            "Level Requirement": "21",
+            "Min Strength": "25",
+            "Min Dexterity": "25",
+            "Rangeadder": "3",
+            "Durability": "30",
+            "Sockets": "3",
+            "Speed by Class": "[-10]\nAma - Fast\nB, D, N, P, S - Normal\nAsn - Slow",
+            "Quality Level": "33"
+          },
+          {
+            "Name": "Fuscina",
+            "Two Hand Damage": "19 to 37 (28 Avg)",
+            "Level Requirement": "24",
+            "Min Strength": "77",
+            "Min Dexterity": "25",
+            "Rangeadder": "3",
+            "Durability": "35",
+            "Sockets": "4",
+            "Speed by Class": "[0]\nAma, B - Normal\nD, N, P, S - Slow\nAsn - Very Slow",
+            "Quality Level": "36"
+          },
+          {
+            "Name": "War Fork",
+            "Two Hand Damage": "16 to 40 (28 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "80",
+            "Min Dexterity": "95",
+            "Rangeadder": "4",
+            "Durability": "28",
+            "Sockets": "5",
+            "Speed by Class": "[-20]\nAma, B, D, P, S - Fast\nAsn, N - Normal",
+            "Quality Level": "41"
+          },
+          {
+            "Name": "Yari",
+            "Two Hand Damage": "29 to 59 (44 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "101",
+            "Min Dexterity": "-",
+            "Rangeadder": "4",
+            "Durability": "28",
+            "Sockets": "6",
+            "Speed by Class": "[0]\nAma, B - Normal\nD, N, P, S - Slow\nAsn - Very Slow",
+            "Quality Level": "44"
+          },
+          {
+            "Name": "Lance",
+            "Two Hand Damage": "27 to 114 (70.5 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "110",
+            "Min Dexterity": "88",
+            "Rangeadder": "4",
+            "Durability": "25",
+            "Sockets": "6",
+            "Speed by Class": "[20]\nAma - Slow\nAsn, B, D, N, P, S - Very Slow",
+            "Quality Level": "47"
+          }
+        ]
+      },
+      "staves": {
+        "items": [
+          {
+            "Name": "Jo Staff",
+            "Two Hand Damage": "6 to 21 (13.5 Avg)",
+            "Level Requirement": "18",
+            "Min Strength": "25",
+            "Min Dexterity": "-",
+            "Rangeadder": "1",
+            "Durability": "20",
+            "Sockets": "2",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[-10]\nFast",
+            "Quality Level": "30"
+          },
+          {
+            "Name": "Quarterstaff",
+            "Two Hand Damage": "8 to 26 (17 Avg)",
+            "Level Requirement": "23",
+            "Min Strength": "25",
+            "Min Dexterity": "-",
+            "Rangeadder": "1",
+            "Durability": "30",
+            "Sockets": "3",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[0]\nFast",
+            "Quality Level": "35"
+          },
+          {
+            "Name": "Cedar Staff",
+            "Two Hand Damage": "11 to 32 (21.5 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "25",
+            "Min Dexterity": "-",
+            "Rangeadder": "1",
+            "Durability": "35",
+            "Sockets": "4",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[10]\nNormal",
+            "Quality Level": "38"
+          },
+          {
+            "Name": "Gothic Staff",
+            "Two Hand Damage": "14 to 34 (24 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "25",
+            "Min Dexterity": "-",
+            "Rangeadder": "1",
+            "Durability": "40",
+            "Sockets": "4",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[0]\nFast",
+            "Quality Level": "42"
+          },
+          {
+            "Name": "Rune Staff",
+            "Two Hand Damage": "24 to 58 (41 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "25",
+            "Min Dexterity": "-",
+            "Rangeadder": "1",
+            "Durability": "50",
+            "Sockets": "6",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[20]\nNormal",
+            "Quality Level": "47"
+          }
+        ]
+      },
+      "swords": {
+        "items": [
+          {
+            "Name": "Gladius",
+            "Min/Max 1h Damage": "8 to 22 (15 Avg)",
+            "Level Requirement": "18",
+            "Min Strength": "25",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "24",
+            "Sockets": "2",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, P - Fast\nS - Normal",
+            "Quality Level": "30"
+          },
+          {
+            "Name": "Cutlass",
+            "Min/Max 1h Damage": "8 to 21 (14.5 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "25",
+            "Min Dexterity": "52",
+            "Rangeadder": "0",
+            "Durability": "22",
+            "Sockets": "2",
+            "Speed by Class": "[-30]\nAma, Asn, B, D, N, P, S - Very Fast",
+            "Quality Level": "43"
+          },
+          {
+            "Name": "Shamshir",
+            "Min/Max 1h Damage": "10 to 24 (17 Avg)",
+            "Level Requirement": "23",
+            "Min Strength": "58",
+            "Min Dexterity": "58",
+            "Rangeadder": "0",
+            "Durability": "32",
+            "Sockets": "2",
+            "Speed by Class": "[-10]\nAsn, P - Very Fast\nAma, B, D, N, S - Fast",
+            "Quality Level": "35"
+          },
+          {
+            "Name": "Tulwar",
+            "Min/Max 1h Damage": "16 to 35 (25.5 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "70",
+            "Min Dexterity": "42",
+            "Rangeadder": "0",
+            "Durability": "32",
+            "Sockets": "2",
+            "Speed by Class": "[20]\nAsn, P - Normal\nAma, B, D, N, S - Slow",
+            "Quality Level": "37"
+          },
+          {
+            "Name": "Dimensional Blade",
+            "Min/Max 1h Damage": "13 to 35 (24 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "85",
+            "Min Dexterity": "60",
+            "Rangeadder": "1",
+            "Durability": "20",
+            "Sockets": "6",
+            "Speed by Class": "[0]\nAma, Asn, B, D, P, N - Fast\nS - Normal",
+            "Quality Level": "37"
+          },
+          {
+            "Name": "Battle Sword",
+            "Min/Max 1h Damage": "16 to 34 (25 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "92",
+            "Min Dexterity": "43",
+            "Rangeadder": "0",
+            "Durability": "32",
+            "Sockets": "4",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, P - Fast\nS - Normal",
+            "Quality Level": "40"
+          },
+          {
+            "Name": "Rune Sword",
+            "Min/Max 1h Damage": "10 to 42 (26 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "103",
+            "Min Dexterity": "79",
+            "Rangeadder": "1",
+            "Durability": "44",
+            "Sockets": "4",
+            "Speed by Class": "[-10]\nAsn, P - Very Fast\nAma, B, D, N, S - Fast",
+            "Quality Level": "44"
+          },
+          {
+            "Name": "Ancient Sword",
+            "Min/Max 1h Damage": "18 to 43 (30.5 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "127",
+            "Min Dexterity": "88",
+            "Rangeadder": "1",
+            "Durability": "44",
+            "Sockets": "3",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, P - Fast\nS - Normal",
+            "Quality Level": "49"
+          }
+        ]
+      },
+      "throwings": {
+        "items": [
+          {
+            "Name": "Battle Dart",
+            "Throw Damage": "11 to 24 (17.5 Avg)",
+            "Min/Max 1h Damage": "8 to 16 (12 Avg)",
+            "Level Requirement": "19",
+            "Min Strength": "25",
+            "Min Dexterity": "52",
+            "Melee Rangeadder": "0",
+            "Max Stack": "160",
+            "Class": "Dagger",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, S - Fast\nP - Normal",
+            "Quality Level": "31"
+          },
+          {
+            "Name": "War Dart",
+            "Throw Damage": "14 to 27 (20.5 Avg)",
+            "Min/Max 1h Damage": "6 to 24 (15 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "25",
+            "Min Dexterity": "97",
+            "Melee Rangeadder": "0",
+            "Max Stack": "160",
+            "Class": "Dagger",
+            "Speed by Class": "[-20]\nAma, Asn B, D, N, S - Very Fast\nP - Fast",
+            "Quality Level": "39"
+          },
+          {
+            "Name": "Francisca",
+            "Throw Damage": "18 to 33 (25.5 Avg)",
+            "Min/Max 1h Damage": "11 to 22 (16.5 Avg)",
+            "Level Requirement": "22",
+            "Min Strength": "25",
+            "Min Dexterity": "80",
+            "Melee Rangeadder": "0",
+            "Max Stack": "130",
+            "Class": "Axe",
+            "Speed by Class": "[10]\nAsn, P - Fast\nAma, B, D, N, S - Normal",
+            "Quality Level": "34"
+          },
+          {
+            "Name": "Hurlbat",
+            "Throw Damage": "24 to 34 (29 Avg)",
+            "Min/Max 1h Damage": "13 to 27 (20 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "25",
+            "Min Dexterity": "106",
+            "Melee Rangeadder": "0",
+            "Max Stack": "130",
+            "Class": "Axe",
+            "Speed by Class": "[-10]\nAsn, P - Very Fast\nAma, B, D, N, S - Fast",
+            "Quality Level": "41"
+          }
+        ]
+      },
+      "wands": {
+        "items": [
+          {
+            "Name": "Burnt Wand",
+            "Min/Max 1h Damage": "8 to 18 (13 Avg)",
+            "Level Requirement": "19",
+            "Min Strength": "25",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "15",
+            "Sockets": "1",
+            "Magic Level": "1",
+            "Speed for Necromancer": "[0]\nFast",
+            "Quality Level": "31"
+          },
+          {
+            "Name": "Petrified Wand",
+            "Min/Max 1h Damage": "8 to 24 (16 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "25",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "15",
+            "Sockets": "2",
+            "Magic Level": "1",
+            "Speed for Necromancer": "[10]\nNormal",
+            "Quality Level": "38"
+          },
+          {
+            "Name": "Tomb Wand",
+            "Min/Max 1h Damage": "10 to 22 (16 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "25",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "15",
+            "Sockets": "2",
+            "Magic Level": "1",
+            "Speed for Necromancer": "[-20]\nVery Fast",
+            "Quality Level": "43"
+          },
+          {
+            "Name": "Grave Wand",
+            "Min/Max 1h Damage": "13 to 29 (21 Avg)",
+            "Level Requirement": "25",
+            "Min Strength": "25",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "15",
+            "Sockets": "2",
+            "Magic Level": "1",
+            "Speed for Necromancer": "[0]\nFast",
+            "Quality Level": "49"
+          }
+        ]
+      }
+    },
+    "class-specific-armor": {
+      "barbarian-helms": {
+        "items": [
+          {
+            "Name": "Jawbone Visor",
+            "Min/Max Defense": "55-68",
+            "Level Required": "25",
+            "Min Strength": "58",
+            "Durability": "25",
+            "Sockets": "3",
+            "Quality Level": "33"
+          },
+          {
+            "Name": "Lion Helm",
+            "Min/Max Defense": "63-75",
+            "Level Required": "29",
+            "Min Strength": "73",
+            "Durability": "35",
+            "Sockets": "3",
+            "Quality Level": "38"
+          },
+          {
+            "Name": "Rage Mask",
+            "Min/Max Defense": "78-90",
+            "Level Required": "29",
+            "Min Strength": "88",
+            "Durability": "45",
+            "Sockets": "3",
+            "Quality Level": "44"
+          },
+          {
+            "Name": "Savage Helmet",
+            "Min/Max Defense": "85-98",
+            "Level Required": "32",
+            "Min Strength": "103",
+            "Durability": "50",
+            "Sockets": "3",
+            "Quality Level": "49"
+          },
+          {
+            "Name": "Slayer Guard",
+            "Min/Max Defense": "93-120",
+            "Level Required": "40",
+            "Min Strength": "118",
+            "Durability": "55",
+            "Sockets": "3",
+            "Quality Level": "54"
+          }
+        ]
+      },
+      "druid-pelts": {
+        "items": [
+          {
+            "Name": "Alpha Helm",
+            "Min/Max Defense": "52-62",
+            "Level Required": "26",
+            "Min Strength": "44",
+            "Durability": "20",
+            "Sockets": "3",
+            "Quality Level": "35"
+          },
+          {
+            "Name": "Griffon Headdress",
+            "Min/Max Defense": "46-68",
+            "Level Required": "30",
+            "Min Strength": "50",
+            "Durability": "20",
+            "Sockets": "3",
+            "Quality Level": "40"
+          },
+          {
+            "Name": "Hunter's Guise",
+            "Min/Max Defense": "67-81",
+            "Level Required": "29",
+            "Min Strength": "56",
+            "Durability": "20",
+            "Sockets": "3",
+            "Quality Level": "46"
+          },
+          {
+            "Name": "Sacred Feathers",
+            "Min/Max Defense": "58-87",
+            "Level Required": "32",
+            "Min Strength": "62",
+            "Durability": "20",
+            "Sockets": "3",
+            "Quality Level": "50"
+          },
+          {
+            "Name": "Totemic Mask",
+            "Min/Max Defense": "73-98",
+            "Level Required": "41",
+            "Min Strength": "65",
+            "Durability": "20",
+            "Sockets": "3",
+            "Quality Level": "55"
+          }
+        ]
+      },
+      "paladin-shields": {
+        "items": [
+          {
+            "Name": "Akaran Targe",
+            "Min/Max Defense": "101-125",
+            "Level Requirement": "26",
+            "Min Strength": "44",
+            "Durability": "20",
+            "% Block": "[10]\n40%",
+            "Sockets": "4",
+            "Paladin Smite Damage": "12 to 16",
+            "Type": "Light",
+            "Quality Level": "35"
+          },
+          {
+            "Name": "Akaran Rondache",
+            "Min/Max Defense": "113-137",
+            "Level Requirement": "30",
+            "Min Strength": "59",
+            "Durability": "30",
+            "% Block": "[15]\n45%",
+            "Sockets": "4",
+            "Paladin Smite Damage": "15 to 20",
+            "Type": "Light",
+            "Quality Level": "40"
+          },
+          {
+            "Name": "Protector Shield",
+            "Min/Max Defense": "129-153",
+            "Level Requirement": "34",
+            "Min Strength": "69",
+            "Durability": "40",
+            "% Block": "[20]\n50%",
+            "Sockets": "4",
+            "Paladin Smite Damage": "18 to 24",
+            "Type": "Light",
+            "Quality Level": "46"
+          },
+          {
+            "Name": "Gilded Shield",
+            "Min/Max Defense": "144-168",
+            "Level Requirement": "38",
+            "Min Strength": "89",
+            "Durability": "50",
+            "% Block": "[22]\n52%",
+            "Sockets": "4",
+            "Paladin Smite Damage": "20 to 28",
+            "Type": "Light",
+            "Quality Level": "51"
+          },
+          {
+            "Name": "Royal Shield",
+            "Min/Max Defense": "156-181",
+            "Level Requirement": "41",
+            "Min Strength": "114",
+            "Durability": "60",
+            "% Block": "[25]\n55%",
+            "Sockets": "4",
+            "Paladin Smite Damage": "24 to 32",
+            "Type": "Light",
+            "Quality Level": "55"
+          }
+        ]
+      },
+      "necromancer-shrunken-heads": {
+        "items": [
+          {
+            "Name": "Mummified Trophy",
+            "Min/Max Defense": "38-48",
+            "Level Requirement": "24",
+            "Min Strength": "38",
+            "Durability": "20",
+            "% Block": "[3]\n23%",
+            "Sockets": "2",
+            "Type": "Light",
+            "Quality Level": "33"
+          },
+          {
+            "Name": "Fetish Trophy",
+            "Min/Max Defense": "41-52",
+            "Level Requirement": "29",
+            "Min Strength": "41",
+            "Durability": "20",
+            "% Block": "[5]\n25%",
+            "Sockets": "2",
+            "Type": "Light",
+            "Quality Level": "39"
+          },
+          {
+            "Name": "Sexton Trophy",
+            "Min/Max Defense": "44-55",
+            "Level Requirement": "33",
+            "Min Strength": "47",
+            "Durability": "20",
+            "% Block": "[8]\n28%",
+            "Sockets": "2",
+            "Type": "Light",
+            "Quality Level": "45"
+          },
+          {
+            "Name": "Cantor Trophy",
+            "Min/Max Defense": "50-64",
+            "Level Requirement": "36",
+            "Min Strength": "50",
+            "Durability": "20",
+            "% Block": "[10]\n30%",
+            "Sockets": "2",
+            "Type": "Light",
+            "Quality Level": "49"
+          },
+          {
+            "Name": "Hierophant Trophy",
+            "Min/Max Defense": "58-70",
+            "Level Requirement": "40",
+            "Min Strength": "58",
+            "Durability": "20",
+            "% Block": "[12]\n32%",
+            "Sockets": "2",
+            "Type": "Light",
+            "Quality Level": "54"
+          }
+        ]
+      }
+    },
+    "class-specific-weapons": {
+      "amazon-weapons": {
+        "items": [
+          {
+            "Name": "Ashwood Bow",
+            "Two Hand Damage": "16 To 29 (22.5 Avg)",
+            "Level Requirement": "29",
+            "Min Strength": "56",
+            "Min Dexterity": "77",
+            "Sockets": "5",
+            "Class": "Bow",
+            "Speed for Amazon": "[0]\nFast",
+            "Quality Level": "39"
+          },
+          {
+            "Name": "Ceremonial Bow",
+            "Two Hand Damage": "19 To 41 (30 Avg)",
+            "Level Requirement": "35",
+            "Min Strength": "73",
+            "Min Dexterity": "110",
+            "Sockets": "5",
+            "Class": "Bow",
+            "Speed for Amazon": "[10]\nFast",
+            "Quality Level": "47"
+          }
+        ]
+      },
+      "assassin-katars": {
+        "items": [
+          {
+            "Name": "Quhab",
+            "Min/Max 1h Damage": "11 To 24 (17.5 Avg)",
+            "Level Requirement": "21",
+            "Min Strength": "57",
+            "Min Dexterity": "57",
+            "Rangeadder": "1",
+            "Durability": "48",
+            "Sockets": "3",
+            "+Skills": "No",
+            "Speed for Assassin": "[0]\nVery Fast",
+            "Quality Level": "28"
+          },
+          {
+            "Name": "Wrist Spike",
+            "Min/Max 1h Damage": "13 To 27 (20 Avg)",
+            "Level Requirement": "24",
+            "Min Strength": "66",
+            "Min Dexterity": "66",
+            "Rangeadder": "1",
+            "Durability": "56",
+            "Sockets": "2",
+            "+Skills": "No",
+            "Speed for Assassin": "[-10]\nVery Fast",
+            "Quality Level": "32"
+          },
+          {
+            "Name": "Fascia",
+            "Min/Max 1h Damage": "8 To 37 (22.5 Avg)",
+            "Level Requirement": "27",
+            "Min Strength": "69",
+            "Min Dexterity": "69",
+            "Rangeadder": "1",
+            "Durability": "64",
+            "Sockets": "2",
+            "+Skills": "No",
+            "Speed for Assassin": "[10]\nFast",
+            "Quality Level": "36"
+          },
+          {
+            "Name": "Hand Scythe",
+            "Min/Max 1h Damage": "16 To 37 (26.5 Avg)",
+            "Level Requirement": "30",
+            "Min Strength": "73",
+            "Min Dexterity": "73",
+            "Rangeadder": "1",
+            "Durability": "72",
+            "Sockets": "2",
+            "+Skills": "Yes",
+            "Speed for Assassin": "[-10]\nVery Fast",
+            "Quality Level": "41"
+          },
+          {
+            "Name": "Greater Claws",
+            "Min/Max 1h Damage": "18 To 37 (27.5 Avg)",
+            "Level Requirement": "33",
+            "Min Strength": "76",
+            "Min Dexterity": "76",
+            "Rangeadder": "1",
+            "Durability": "52",
+            "Sockets": "3",
+            "+Skills": "Yes",
+            "Speed for Assassin": "[-20]\nVery Fast",
+            "Quality Level": "45"
+          },
+          {
+            "Name": "Greater Talons",
+            "Min/Max 1h Damage": "21 To 35 (28 Avg)",
+            "Level Requirement": "37",
+            "Min Strength": "79",
+            "Min Dexterity": "79",
+            "Rangeadder": "1",
+            "Durability": "69",
+            "Sockets": "3",
+            "+Skills": "Yes",
+            "Speed for Assassin": "[-30]\nVery Fast",
+            "Quality Level": "50"
+          },
+          {
+            "Name": "Scissors Quhab",
+            "Min/Max 1h Damage": "19 To 40 (29.5 Avg)",
+            "Level Requirement": "40",
+            "Min Strength": "82",
+            "Min Dexterity": "82",
+            "Rangeadder": "1",
+            "Durability": "68",
+            "Sockets": "3",
+            "+Skills": "Yes",
+            "Speed for Assassin": "[0]\nVery Fast",
+            "Quality Level": "54"
+          }
+        ]
+      },
+      "sorceress-orbs": {
+        "items": [
+          {
+            "Name": "Glowing Orb",
+            "Min/Max 1h Damage": "8 To 21 (14.5 Avg)",
+            "Level Requirement": "24",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "20",
+            "Sockets": "2",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[-10]\nFast",
+            "Quality Level": "32"
+          },
+          {
+            "Name": "Crystalline Globe",
+            "Min/Max 1h Damage": "10 To 26 (18 Avg)",
+            "Level Requirement": "27",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "30",
+            "Sockets": "2",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[-10]\nFast",
+            "Quality Level": "37"
+          },
+          {
+            "Name": "Cloudy Sphere",
+            "Min/Max 1h Damage": "11 To 29 (20 Avg)",
+            "Level Requirement": "30",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "35",
+            "Sockets": "2",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[0]\nNormal",
+            "Quality Level": "41"
+          },
+          {
+            "Name": "Sparkling Ball",
+            "Min/Max 1h Damage": "13 To 32 (22.5 Avg)",
+            "Level Requirement": "34",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "40",
+            "Sockets": "2",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[0]\nNormal",
+            "Quality Level": "46"
+          },
+          {
+            "Name": "Swirling Crystal",
+            "Min/Max 1h Damage": "18 To 42 (30 Avg)",
+            "Level Requirement": "37",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "50",
+            "Sockets": "3",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[10]\nNormal",
+            "Quality Level": "50"
+          }
+        ]
+      }
+    }
+  },
+  "elite": {
+    "armor": {
+      "helms": {
+        "items": [
+          {
+            "Name": "Shako",
+            "Min/Max Defense": "98-141",
+            "Level Requirement": "43",
+            "Min Strength": "50",
+            "Durability": "12",
+            "Sockets": "2",
+            "Quality Level": "58"
+          },
+          {
+            "Name": "Hydraskull",
+            "Min/Max Defense": "101-145",
+            "Level Requirement": "47",
+            "Min Strength": "84",
+            "Durability": "18",
+            "Sockets": "2",
+            "Quality Level": "63"
+          },
+          {
+            "Name": "Armet",
+            "Min/Max Defense": "105-149",
+            "Level Requirement": "51",
+            "Min Strength": "109",
+            "Durability": "24",
+            "Sockets": "2",
+            "Quality Level": "68"
+          },
+          {
+            "Name": "Giant Conch",
+            "Min/Max Defense": "110-154",
+            "Level Requirement": "40",
+            "Min Strength": "142",
+            "Durability": "30",
+            "Sockets": "2",
+            "Quality Level": "54"
+          },
+          {
+            "Name": "Spired Helm",
+            "Min/Max Defense": "114-159",
+            "Level Requirement": "59",
+            "Min Strength": "192",
+            "Durability": "40",
+            "Sockets": "3",
+            "Quality Level": "79"
+          },
+          {
+            "Name": "Demonhead",
+            "Min/Max Defense": "101-154",
+            "Level Requirement": "55",
+            "Min Strength": "102",
+            "Durability": "20",
+            "Sockets": "3",
+            "Quality Level": "74"
+          },
+          {
+            "Name": "Corona",
+            "Min/Max Defense": "111-165",
+            "Level Requirement": "66",
+            "Min Strength": "174",
+            "Durability": "50",
+            "Sockets": "3",
+            "Quality Level": "85"
+          },
+          {
+            "Name": "Bone Visage",
+            "Min/Max Defense": "100-157",
+            "Level Requirement": "63",
+            "Min Strength": "106",
+            "Durability": "40",
+            "Sockets": "3",
+            "Quality Level": "84"
+          }
+        ]
+      },
+      "armor": {
+        "items": [
+          {
+            "Name": "Dusk Shroud",
+            "Min/Max Defense": "361-467",
+            "Level Requirement": "49",
+            "Min Strength": "77",
+            "Durability": "20",
+            "Sockets": "4",
+            "Type": "Light",
+            "Quality Level": "65"
+          },
+          {
+            "Name": "Wyrmhide",
+            "Min/Max Defense": "364-470",
+            "Level Requirement": "50",
+            "Min Strength": "84",
+            "Durability": "24",
+            "Sockets": "4",
+            "Type": "Light",
+            "Quality Level": "67"
+          },
+          {
+            "Name": "Scarab Husk",
+            "Min/Max Defense": "369-474",
+            "Level Requirement": "51",
+            "Min Strength": "95",
+            "Durability": "28",
+            "Sockets": "4",
+            "Type": "Light",
+            "Quality Level": "68"
+          },
+          {
+            "Name": "Wire Fleece",
+            "Min/Max Defense": "375-481",
+            "Level Requirement": "53",
+            "Min Strength": "111",
+            "Durability": "32",
+            "Sockets": "4",
+            "Type": "Light",
+            "Quality Level": "70"
+          },
+          {
+            "Name": "Diamond Mail",
+            "Min/Max Defense": "383-489",
+            "Level Requirement": "54",
+            "Min Strength": "131",
+            "Durability": "26",
+            "Sockets": "4",
+            "Type": "Medium",
+            "Quality Level": "72"
+          },
+          {
+            "Name": "Loricated Mail",
+            "Min/Max Defense": "390-496",
+            "Level Requirement": "55",
+            "Min Strength": "149",
+            "Durability": "36",
+            "Sockets": "4",
+            "Type": "Heavy",
+            "Quality Level": "73"
+          },
+          {
+            "Name": "Great Hauberk",
+            "Min/Max Defense": "395-501",
+            "Level Requirement": "56",
+            "Min Strength": "118",
+            "Durability": "50",
+            "Sockets": "4",
+            "Type": "Light",
+            "Quality Level": "75"
+          },
+          {
+            "Name": "Boneweave",
+            "Min/Max Defense": "399-505",
+            "Level Requirement": "47",
+            "Min Strength": "158",
+            "Durability": "45",
+            "Sockets": "4",
+            "Type": "Medium",
+            "Quality Level": "62"
+          },
+          {
+            "Name": "Balrog Skin",
+            "Min/Max Defense": "410-517",
+            "Level Requirement": "57",
+            "Min Strength": "165",
+            "Durability": "30",
+            "Sockets": "4",
+            "Type": "Medium",
+            "Quality Level": "76"
+          },
+          {
+            "Name": "Archon Plate",
+            "Min/Max Defense": "410-524",
+            "Level Requirement": "63",
+            "Min Strength": "103",
+            "Durability": "60",
+            "Sockets": "4",
+            "Type": "Light",
+            "Quality Level": "84"
+          },
+          {
+            "Name": "Kraken Shell",
+            "Min/Max Defense": "417-523",
+            "Level Requirement": "61",
+            "Min Strength": "174",
+            "Durability": "48",
+            "Sockets": "4",
+            "Type": "Medium",
+            "Quality Level": "81"
+          },
+          {
+            "Name": "Hellforge Plate",
+            "Min/Max Defense": "421-530",
+            "Level Requirement": "59",
+            "Min Strength": "196",
+            "Durability": "60",
+            "Sockets": "4",
+            "Type": "Heavy",
+            "Quality Level": "78"
+          },
+          {
+            "Name": "Lacquered Plate",
+            "Min/Max Defense": "433-541",
+            "Level Requirement": "62",
+            "Min Strength": "208",
+            "Durability": "55",
+            "Sockets": "4",
+            "Type": "Medium",
+            "Quality Level": "82"
+          },
+          {
+            "Name": "Shadow Plate",
+            "Min/Max Defense": "446-557",
+            "Level Requirement": "64",
+            "Min Strength": "230",
+            "Durability": "70",
+            "Sockets": "4",
+            "Type": "Heavy",
+            "Quality Level": "83"
+          },
+          {
+            "Name": "Sacred Armor",
+            "Min/Max Defense": "487-600",
+            "Level Requirement": "66",
+            "Min Strength": "232",
+            "Durability": "60",
+            "Sockets": "4",
+            "Type": "Medium",
+            "Quality Level": "85"
+          }
+        ]
+      },
+      "shields": {
+        "items": [
+          {
+            "Name": "Heater",
+            "Min/Max Defense": "95-110",
+            "Level Requirement": "43",
+            "Min Strength": "77",
+            "% Block": "[22]\nPal: 52%\nAma/Asn/Bar: 47%\nDru/Nec/Sor: 42%",
+            "Durability": "88",
+            "Sockets": "2",
+            "Paladin Smite Damage": "16 to 30",
+            "Type": "Light",
+            "Quality Level": "58"
+          },
+          {
+            "Name": "Luna",
+            "Min/Max Defense": "108-123",
+            "Level Requirement": "45",
+            "Min Strength": "100",
+            "% Block": "[20]\nPal: 50%\nAma/Asn/Bar: 45%\nDru/Nec/Sor: 40%",
+            "Durability": "84",
+            "Sockets": "2",
+            "Paladin Smite Damage": "17 to 29",
+            "Type": "Light",
+            "Quality Level": "61"
+          },
+          {
+            "Name": "Hyperion",
+            "Min/Max Defense": "119-135",
+            "Level Requirement": "48",
+            "Min Strength": "127",
+            "% Block": "[24]\nPal: 54%\nAma/Asn/Bar: 49%\nDru/Nec/Sor: 44%",
+            "Durability": "82",
+            "Sockets": "3",
+            "Paladin Smite Damage": "14 to 32",
+            "Type": "Medium",
+            "Quality Level": "64"
+          },
+          {
+            "Name": "Monarch",
+            "Min/Max Defense": "133-148",
+            "Level Requirement": "54",
+            "Min Strength": "156",
+            "% Block": "[22]\nPal: 52%\nAma/Asn/Bar: 47%\nDru/Nec/Sor: 42%",
+            "Durability": "86",
+            "Sockets": "4",
+            "Paladin Smite Damage": "12 to 34",
+            "Type": "Light",
+            "Quality Level": "72"
+          },
+          {
+            "Name": "Blade Barrier",
+            "Min/Max Defense": "147-163",
+            "Level Requirement": "51",
+            "Min Strength": "118",
+            "% Block": "[20]\nPal: 50%\nAma/Asn/Bar: 45%\nDru/Nec/Sor: 40%",
+            "Durability": "83",
+            "Sockets": "3",
+            "Paladin Smite Damage": "26 to 40",
+            "Type": "Light",
+            "Quality Level": "68"
+          },
+          {
+            "Name": "Aegis",
+            "Min/Max Defense": "145-161",
+            "Level Requirement": "59",
+            "Min Strength": "219",
+            "% Block": "[24]\nPal: 54%\nAma/Asn/Bar: 49%\nDru/Nec/Sor: 44%",
+            "Durability": "92",
+            "Sockets": "4",
+            "Paladin Smite Damage": "18 to 28",
+            "Type": "Heavy",
+            "Quality Level": "79"
+          },
+          {
+            "Name": "Troll Nest",
+            "Min/Max Defense": "158-173",
+            "Level Requirement": "57",
+            "Min Strength": "106",
+            "% Block": "[20]\nPal: 50%\nAma/Asn/Bar: 45%\nDru/Nec/Sor: 40%",
+            "Durability": "74",
+            "Sockets": "3",
+            "Paladin Smite Damage": "24 to 38",
+            "Type": "Light",
+            "Quality Level": "76"
+          },
+          {
+            "Name": "Ward",
+            "Min/Max Defense": "153-170",
+            "Level Requirement": "63",
+            "Min Strength": "185",
+            "% Block": "[24]\nPal: 54%\nAma/Asn/Bar: 49%\nDru/Nec/Sor: 44%",
+            "Durability": "100",
+            "Sockets": "4",
+            "Paladin Smite Damage": "11 to 35",
+            "Type": "Medium",
+            "Quality Level": "84"
+          }
+        ]
+      },
+      "gloves": {
+        "items": [
+          {
+            "Name": "Bramble Mitts",
+            "Min/Max Defense": "54-62",
+            "Level Requirement": "42",
+            "Min Strength": "50",
+            "Durability": "12",
+            "Quality Level": "57"
+          },
+          {
+            "Name": "Vampirebone Gloves",
+            "Min/Max Defense": "56-65",
+            "Level Requirement": "47",
+            "Min Strength": "50",
+            "Durability": "14",
+            "Quality Level": "63"
+          },
+          {
+            "Name": "Vambraces",
+            "Min/Max Defense": "59-67",
+            "Level Requirement": "51",
+            "Min Strength": "106",
+            "Durability": "16",
+            "Quality Level": "69"
+          },
+          {
+            "Name": "Crusader Gauntlets",
+            "Min/Max Defense": "59-68",
+            "Level Requirement": "57",
+            "Min Strength": "151",
+            "Durability": "18",
+            "Quality Level": "76"
+          },
+          {
+            "Name": "Ogre Gauntlets",
+            "Min/Max Defense": "62-71",
+            "Level Requirement": "64",
+            "Min Strength": "185",
+            "Durability": "24",
+            "Quality Level": "85"
+          }
+        ]
+      },
+      "boots": {
+        "items": [
+          {
+            "Name": "Wyrmhide Boots",
+            "Min/Max Defense": "54-62",
+            "Level Requirement": "45",
+            "Min Strength": "50",
+            "Durability": "12",
+            "Assassin Kick Damage": "65-100",
+            "Quality Level": "60"
+          },
+          {
+            "Name": "Scarabshell Boots",
+            "Min/Max Defense": "56-65",
+            "Level Requirement": "49",
+            "Min Strength": "91",
+            "Durability": "14",
+            "Assassin Kick Damage": "60-110",
+            "Quality Level": "66"
+          },
+          {
+            "Name": "Boneweave Boots",
+            "Min/Max Defense": "59-67",
+            "Level Requirement": "54",
+            "Min Strength": "118",
+            "Durability": "16",
+            "Assassin Kick Damage": "69-118",
+            "Quality Level": "72"
+          },
+          {
+            "Name": "Mirrored Boots",
+            "Min/Max Defense": "59-68",
+            "Level Requirement": "60",
+            "Min Strength": "163",
+            "Durability": "18",
+            "Assassin Kick Damage": "50-145",
+            "Quality Level": "81"
+          },
+          {
+            "Name": "Myrmidon Greaves",
+            "Min/Max Defense": "62-71",
+            "Level Requirement": "65",
+            "Min Strength": "208",
+            "Durability": "24",
+            "Assassin Kick Damage": "83-149",
+            "Quality Level": "85"
+          }
+        ]
+      },
+      "belts": {
+        "items": [
+          {
+            "Name": "Spiderweb Sash",
+            "Min/Max Defense": "55-62",
+            "Level Requirement": "46",
+            "Min Strength": "50",
+            "Durability": "12",
+            "#Boxes": "16",
+            "Quality Level": "61"
+          },
+          {
+            "Name": "Vampirefang Belt",
+            "Min/Max Defense": "56-63",
+            "Level Requirement": "51",
+            "Min Strength": "50",
+            "Durability": "14",
+            "#Boxes": "16",
+            "Quality Level": "68"
+          },
+          {
+            "Name": "Mithril Coil",
+            "Min/Max Defense": "58-65",
+            "Level Requirement": "56",
+            "Min Strength": "106",
+            "Durability": "16",
+            "#Boxes": "16",
+            "Quality Level": "75"
+          },
+          {
+            "Name": "Troll Belt",
+            "Min/Max Defense": "59-66",
+            "Level Requirement": "62",
+            "Min Strength": "151",
+            "Durability": "18",
+            "#Boxes": "16",
+            "Quality Level": "82"
+          },
+          {
+            "Name": "Colossus Girdle",
+            "Min/Max Defense": "61-71",
+            "Level Requirement": "67",
+            "Min Strength": "185",
+            "Durability": "24",
+            "#Boxes": "16",
+            "Quality Level": "85"
+          }
+        ]
+      }
+    },
+    "weapons": {
+      "axes": {
+        "items": [
+          {
+            "Name": "Tomahawk",
+            "Min/Max 1h Damage": "33 to 58 (45.5 Avg)",
+            "Level Requirement": "40",
+            "Min Strength": "125",
+            "Min Dexterity": "67",
+            "Rangeadder": "0",
+            "Durability": "28",
+            "Sockets": "2",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, P - Fast\nS - Normal",
+            "Quality Level": "54"
+          },
+          {
+            "Name": "Small Crescent",
+            "Min/Max 1h Damage": "38 to 60 (49 Avg)",
+            "Level Requirement": "45",
+            "Min Strength": "115",
+            "Min Dexterity": "83",
+            "Rangeadder": "1",
+            "Durability": "24",
+            "Sockets": "4",
+            "Speed by Class": "[10]\nAsn, P - Fast\nAma, B, D,N, S, - Normal",
+            "Quality Level": "61"
+          },
+          {
+            "Name": "Ettin Axe",
+            "Min/Max 1h Damage": "33 to 66 (49.5 Avg)",
+            "Level Requirement": "52",
+            "Min Strength": "145",
+            "Min Dexterity": "45",
+            "Rangeadder": "1",
+            "Durability": "24",
+            "Sockets": "5",
+            "Speed by Class": "[10]\nAsn, P - Fast\nAma, B, D, N, S, - Normal",
+            "Quality Level": "70"
+          },
+          {
+            "Name": "War Spike",
+            "Min/Max 1h Damage": "30 to 48 (39 Avg)",
+            "Level Requirement": "59",
+            "Min Strength": "133",
+            "Min Dexterity": "54",
+            "Rangeadder": "1",
+            "Durability": "26",
+            "Sockets": "6",
+            "Speed by Class": "[-10]\nAsn, P - Very Fast\nAma, B, D, N, S, - Fast",
+            "Quality Level": "79"
+          },
+          {
+            "Name": "Berserker Axe",
+            "Min/Max 1h Damage": "24 to 71 (47.5 Avg)",
+            "Level Requirement": "64",
+            "Min Strength": "138",
+            "Min Dexterity": "59",
+            "Rangeadder": "2",
+            "Durability": "26",
+            "Sockets": "6",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, P - Fast\nS - Normal",
+            "Quality Level": "85"
+          }
+        ]
+      },
+      "bows": {
+        "items": [
+          {
+            "Name": "Spider Bow",
+            "Two-Hand Damage": "23 to 50 (36.5 Avg)",
+            "Level Requirement": "41",
+            "Min Strength": "64",
+            "Min Dexterity": "143",
+            "Sockets": "3",
+            "Speed by Class": "[5]\nAma, Asn, B, D, P, S - Fast\nN - Normal",
+            "Quality Level": "55"
+          },
+          {
+            "Name": "Blade Bow",
+            "Two-Hand Damage": "21 to 41 (31 Avg)",
+            "Level Requirement": "45",
+            "Min Strength": "76",
+            "Min Dexterity": "119",
+            "Sockets": "4",
+            "Speed by Class": "[-10]\nAma, B, D - Very Fast\nAsn, N, P, S - Fast",
+            "Quality Level": "60"
+          },
+          {
+            "Name": "Shadow Bow",
+            "Two-Hand Damage": "15 to 59 (37 Avg)",
+            "Level Requirement": "47",
+            "Min Strength": "52",
+            "Min Dexterity": "188",
+            "Sockets": "5",
+            "Speed by Class": "[0]\nAma, Asn, B, D, P, S - Fast\nN - Normal",
+            "Quality Level": "63"
+          },
+          {
+            "Name": "Great Bow",
+            "Two-Hand Damage": "12 to 52 (32 Avg)",
+            "Level Requirement": "51",
+            "Min Strength": "121",
+            "Min Dexterity": "107",
+            "Sockets": "4",
+            "Speed by Class": "[-10]\nAma, B, D - Very Fast\nAsn, N, P, S - Fast",
+            "Quality Level": "68"
+          },
+          {
+            "Name": "Diamond Bow",
+            "Two-Hand Damage": "33 to 40 (36.5 Avg)",
+            "Level Requirement": "54",
+            "Min Strength": "89",
+            "Min Dexterity": "132",
+            "Sockets": "5",
+            "Speed by Class": "[0]\nAma, Asn, B, D, P, S - Fast\nN - Normal",
+            "Quality Level": "72"
+          },
+          {
+            "Name": "Crusader Bow",
+            "Two-Hand Damage": "15 to 63 (39 Avg)",
+            "Level Requirement": "57",
+            "Min Strength": "97",
+            "Min Dexterity": "121",
+            "Sockets": "6",
+            "Speed by Class": "[10]\nAma, B, D - Fast\nAsn, N, P, S - Normal",
+            "Quality Level": "77"
+          },
+          {
+            "Name": "Ward Bow",
+            "Two-Hand Damage": "20 to 53 (36.5 Avg)",
+            "Level Requirement": "60",
+            "Min Strength": "72",
+            "Min Dexterity": "146",
+            "Sockets": "5",
+            "Speed by Class": "[0]\nAma, Asn, B, D, P, S - Fast\nN - Normal",
+            "Quality Level": "80"
+          },
+          {
+            "Name": "Hydra Bow",
+            "Two-Hand Damage": "10 to 68 (39 Avg)",
+            "Level Requirement": "63",
+            "Min Strength": "134",
+            "Min Dexterity": "167",
+            "Sockets": "6",
+            "Speed by Class": "[10]\nAma, B, D - Fast\nAsn, N, P, S - Normal",
+            "Quality Level": "85"
+          }
+        ]
+      },
+      "crossbows": {
+        "items": [
+          {
+            "Name": "Pellet Bow",
+            "Two-Hand Damage": "28 to 73 (50.5 Avg)",
+            "Level Requirement": "42",
+            "Min Strength": "83",
+            "Min Dexterity": "155",
+            "Sockets": "3",
+            "Speed by Class": "[-10]\nAma, Asn, B, D, N, P, S - Normal",
+            "Quality Level": "57"
+          },
+          {
+            "Name": "Gorgon Crossbow",
+            "Two-Hand Damage": "25 to 87 (56 Avg)",
+            "Level Requirement": "50",
+            "Min Strength": "117",
+            "Min Dexterity": "105",
+            "Sockets": "4",
+            "Speed by Class": "[0]\nD, N, S - Normal\nAma, Asn, B, P - Slow",
+            "Quality Level": "67"
+          },
+          {
+            "Name": "Colossus Crossbow",
+            "Two-Hand Damage": "32 to 91 (61.5 Avg)",
+            "Level Requirement": "56",
+            "Min Strength": "163",
+            "Min Dexterity": "77",
+            "Sockets": "6",
+            "Speed by Class": "[10]\nB, D, N, P, S - Slow\nAma, Asn - Very Slow",
+            "Quality Level": "75"
+          },
+          {
+            "Name": "Demon Crossbow",
+            "Two-Hand Damage": "26 to 40 (33 Avg)",
+            "Level Requirement": "63",
+            "Min Strength": "141",
+            "Min Dexterity": "98",
+            "Sockets": "5",
+            "Speed by Class": "[-60]\nAma, Asn, B, D, N, P, S - Very Fast",
+            "Quality Level": "84"
+          }
+        ]
+      },
+      "daggers": {
+        "items": [
+          {
+            "Name": "Bone Knife",
+            "Min/Max Dagger Damage": "23 to 49 (36 Avg)",
+            "Level Requirement": "43",
+            "Min Strength": "38",
+            "Min Dexterity": "75",
+            "Rangeadder": "0",
+            "Durability": "26",
+            "Sockets": "1",
+            "Speed by Class": "[-20]\nAma, Asn, B, D, N, S - Very Fast\nP - Fast",
+            "Quality Level": "58"
+          },
+          {
+            "Name": "Mithril Point",
+            "Min/Max Dagger Damage": "37 to 53 (45 Avg)",
+            "Level Requirement": "52",
+            "Min Strength": "55",
+            "Min Dexterity": "98",
+            "Rangeadder": "0",
+            "Durability": "55",
+            "Sockets": "1",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, S - Fast\nP - Normal",
+            "Quality Level": "70"
+          },
+          {
+            "Name": "Fanged Knife",
+            "Min/Max Dagger Damage": "15 to 57 (36 Avg)",
+            "Level Requirement": "62",
+            "Min Strength": "42",
+            "Min Dexterity": "86",
+            "Rangeadder": "0",
+            "Durability": "36",
+            "Sockets": "3",
+            "Speed by Class": "[-20]\nAma, Asn, B, D, N, S - Very Fast\nP - Fast",
+            "Quality Level": "83"
+          },
+          {
+            "Name": "Legend Spike",
+            "Min/Max Dagger Damage": "31 to 47 (39 Avg)",
+            "Level Requirement": "66",
+            "Min Strength": "65",
+            "Min Dexterity": "67",
+            "Rangeadder": "0",
+            "Durability": "47",
+            "Sockets": "2",
+            "Speed by Class": "[-10]\nAma, Asn - Very Fast\nB, D, N, P, S - Fast",
+            "Quality Level": "85"
+          }
+        ]
+      },
+      "javelins": {
+        "items": [
+          {
+            "Name": "Hyperion Javelin",
+            "Throw Damage": "28 to 55 (41.5 Avg)",
+            "Min/Max 1h Damage": "21 to 57 (39 Avg)",
+            "Level Requirement": "40",
+            "Min Strength": "98",
+            "Min Dexterity": "123",
+            "Melee Rangeadder": "2",
+            "Max Stack": "100",
+            "Speed by Class": "[-10]\nAma, Asn - Very Fast\nB, D, N, P, S - Fast",
+            "Quality Level": "54"
+          },
+          {
+            "Name": "Stygian Pilum",
+            "Throw Damage": "21 to 75 (48 Avg)",
+            "Min/Max 1h Damage": "14 to 64 (39 Avg)",
+            "Level Requirement": "46",
+            "Min Strength": "118",
+            "Min Dexterity": "112",
+            "Melee Rangeadder": "2",
+            "Max Stack": "90",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, S - Fast\nP - Normal",
+            "Quality Level": "62"
+          },
+          {
+            "Name": "Balrog Spear",
+            "Throw Damage": "40 to 62 (51 Avg)",
+            "Min/Max 1h Damage": "33 to 63 (48 Avg)",
+            "Level Requirement": "53",
+            "Min Strength": "127",
+            "Min Dexterity": "95",
+            "Melee Rangeadder": "2",
+            "Max Stack": "80",
+            "Speed by Class": "[10]\nAma, Asn - Fast\nB, D, N, P, S - Normal",
+            "Quality Level": "71"
+          },
+          {
+            "Name": "Ghost Glaive",
+            "Throw Damage": "30 to 85 (57.5 Avg)",
+            "Min/Max 1h Damage": "19 to 60 (39.5 Avg)",
+            "Level Requirement": "59",
+            "Min Strength": "89",
+            "Min Dexterity": "137",
+            "Melee Rangeadder": "2",
+            "Max Stack": "75",
+            "Speed by Class": "[20]\nAma, Asn - Normal\nB, D, N, P, S - Slow",
+            "Quality Level": "79"
+          },
+          {
+            "Name": "Winged Harpoon",
+            "Throw Damage": "11 to 77 (44 Avg)",
+            "Min/Max 1h Damage": "27 to 35 (31 Avg)",
+            "Level Requirement": "65",
+            "Min Strength": "76",
+            "Min Dexterity": "145",
+            "Melee Rangeadder": "2",
+            "Max Stack": "80",
+            "Speed by Class": "[-10]\nAma, Asn - Very Fast\nB, D, N, P, S - Fast",
+            "Quality Level": "85"
+          }
+        ]
+      },
+      "maces": {
+        "items": [
+          {
+            "Name": "Truncheon",
+            "Min/Max 1h Damage": "35 to 43 (39 Avg)",
+            "Level Requirement": "39",
+            "Min Strength": "88",
+            "Min Dexterity": "43",
+            "Rangeadder": "0",
+            "Durability": "55",
+            "Sockets": "2",
+            "Speed by Class": "[-10]\nAsn, P - Very Fast\nAma, B, D, N, S - Fast",
+            "Quality Level": "52"
+          },
+          {
+            "Name": "Tyrant Club",
+            "Min/Max 1h Damage": "32 to 58 (45 Avg)",
+            "Level Requirement": "42",
+            "Min Strength": "133",
+            "Min Dexterity": "-",
+            "Rangeadder": "1",
+            "Durability": "65",
+            "Sockets": "3",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, P - Fast\nS - Normal",
+            "Quality Level": "57"
+          }
+        ]
+      },
+      "polearms": {
+        "items": [
+          {
+            "Name": "Ogre Axe",
+            "Two Hand Damage": "28 to 145 (86.5 Avg)",
+            "Level Requirement": "45",
+            "Min Strength": "195",
+            "Min Dexterity": "75",
+            "Rangeadder": "2",
+            "Durability": "50",
+            "Sockets": "3",
+            "Speed by Class": "[0]\nD, S - Fast\nN- Normal\nAma, Asn, B, P - Slow",
+            "Quality Level": "60"
+          },
+          {
+            "Name": "Colossus Voulge",
+            "Two Hand Damage": "17 to 165 (91 Avg)",
+            "Level Requirement": "48",
+            "Min Strength": "210",
+            "Min Dexterity": "55",
+            "Rangeadder": "2",
+            "Durability": "50",
+            "Sockets": "4",
+            "Speed by Class": "[10]\nD - Fast\nN,S - Normal\nAma, Asn, B, P - Slow",
+            "Quality Level": "64"
+          },
+          {
+            "Name": "Thresher",
+            "Two Hand Damage": "12 to 141 (76.5 Avg)",
+            "Level Requirement": "53",
+            "Min Strength": "152",
+            "Min Dexterity": "118",
+            "Rangeadder": "1",
+            "Durability": "65",
+            "Sockets": "5",
+            "Speed by Class": "[-10]\nD - Very Fast\nN, P, S - Fast\nAma, Asn, B - Normal",
+            "Quality Level": "71"
+          },
+          {
+            "Name": "Cryptic Axe",
+            "Two Hand Damage": "33 to 150 (91.5 Avg)",
+            "Level Requirement": "59",
+            "Min Strength": "165",
+            "Min Dexterity": "103",
+            "Rangeadder": "3",
+            "Durability": "65",
+            "Sockets": "5",
+            "Speed by Class": "[10]\nD - Fast\nN, S - Normal\nAma, Asn, B, P - Slow",
+            "Quality Level": "79"
+          },
+          {
+            "Name": "Great Poleaxe",
+            "Two Hand Damage": "46 to 127 (86.5 Avg)",
+            "Level Requirement": "63",
+            "Min Strength": "179",
+            "Min Dexterity": "99",
+            "Rangeadder": "4",
+            "Durability": "55",
+            "Sockets": "6",
+            "Speed by Class": "[0]\nD, S - Fast\nAsn, B, N, P - Normal\nAma - Slow",
+            "Quality Level": "84"
+          },
+          {
+            "Name": "Giant Thresher",
+            "Two Hand Damage": "40 to 114 (77 Avg)",
+            "Level Requirement": "66",
+            "Min Strength": "188",
+            "Min Dexterity": "140",
+            "Rangeadder": "4",
+            "Durability": "55",
+            "Sockets": "6",
+            "Speed by Class": "[-10]\nD - Very Fast\nN, P, S - Fast\nAma, Asn, B - Normal",
+            "Quality Level": "85"
+          }
+        ]
+      },
+      "scepters": {
+        "items": [
+          {
+            "Name": "Mighty Scepter",
+            "Min/Max 1h Damage": "40 to 52 (46 Avg)",
+            "Level Requirement": "46",
+            "Min Strength": "125",
+            "Min Dexterity": "65",
+            "Rangeadder": "0",
+            "Durability": "50",
+            "Sockets": "2",
+            "Speed for Paladin": "[0]\nFast",
+            "Quality Level": "62"
+          },
+          {
+            "Name": "Seraph Rod",
+            "Min/Max 1h Damage": "45 to 54 (49.5 Avg)",
+            "Level Requirement": "57",
+            "Min Strength": "108",
+            "Min Dexterity": "69",
+            "Rangeadder": "1",
+            "Durability": "60",
+            "Sockets": "3",
+            "Speed for Paladin": "[10]\nFast",
+            "Quality Level": "76"
+          },
+          {
+            "Name": "Caduceus",
+            "Min/Max 1h Damage": "37 to 43 (40 Avg)",
+            "Level Requirement": "66",
+            "Min Strength": "97",
+            "Min Dexterity": "70",
+            "Rangeadder": "1",
+            "Durability": "70",
+            "Sockets": "5",
+            "Speed for Paladin": "[-10]\nVery Fast",
+            "Quality Level": "85"
+          }
+        ]
+      },
+      "spears": {
+        "items": [
+          {
+            "Name": "Hyperion Spear",
+            "Two Hand Damage": "35 to 119 (77 Avg)",
+            "Level Requirement": "43",
+            "Min Strength": "155",
+            "Min Dexterity": "120",
+            "Rangeadder": "3",
+            "Durability": "30",
+            "Sockets": "3",
+            "Speed by Class": "[-10]\nAma - Fast\nB, D, N, P, S - Normal\nAsn - Slow",
+            "Quality Level": "58"
+          },
+          {
+            "Name": "Stygian Pike",
+            "Two Hand Damage": "29 to 144 (86.5 Avg)",
+            "Level Requirement": "49",
+            "Min Strength": "168",
+            "Min Dexterity": "97",
+            "Rangeadder": "3",
+            "Durability": "35",
+            "Sockets": "4",
+            "Speed by Class": "[0]\nAma, B - Normal\nD, N, P, S - Slow\nAsn - Very Slow",
+            "Quality Level": "66"
+          },
+          {
+            "Name": "Mancatcher",
+            "Two Hand Damage": "42 to 92 (67 Avg)",
+            "Level Requirement": "55",
+            "Min Strength": "132",
+            "Min Dexterity": "134",
+            "Rangeadder": "4",
+            "Durability": "28",
+            "Sockets": "5",
+            "Speed by Class": "[-20]\nAma, B, D, P, S - Fast\nAsn, N - Normal",
+            "Quality Level": "74"
+          },
+          {
+            "Name": "Ghost Spear",
+            "Two Hand Damage": "18 to 155 (86.5 Avg)",
+            "Level Requirement": "62",
+            "Min Strength": "122",
+            "Min Dexterity": "163",
+            "Rangeadder": "4",
+            "Durability": "28",
+            "Sockets": "6",
+            "Speed by Class": "[0]\nAma, B - Normal\nD, N, P, S - Slow\nAsn - Very Slow",
+            "Quality Level": "83"
+          },
+          {
+            "Name": "War Pike",
+            "Two Hand Damage": "33 to 178 (105.5 Avg)",
+            "Level Requirement": "66",
+            "Min Strength": "165",
+            "Min Dexterity": "106",
+            "Rangeadder": "4",
+            "Durability": "25",
+            "Sockets": "6",
+            "Speed by Class": "[20]\nAma - Slow\nAsn, B, D, N, P, S - Very Slow",
+            "Quality Level": "85"
+          }
+        ]
+      },
+      "staves": {
+        "items": [
+          {
+            "Name": "Walking Stick",
+            "Two Hand Damage": "69 to 85 (77 Avg)",
+            "Level Requirement": "43",
+            "Min Strength": "25",
+            "Min Dexterity": "-",
+            "Rangeadder": "1",
+            "Durability": "20",
+            "Sockets": "2",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[-10]\nFast",
+            "Quality Level": "58"
+          },
+          {
+            "Name": "Stalagmite",
+            "Two Hand Damage": "75 to 107 (91 Avg)",
+            "Level Requirement": "49",
+            "Min Strength": "63",
+            "Min Dexterity": "35",
+            "Rangeadder": "1",
+            "Durability": "30",
+            "Sockets": "3",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[10]\nNormal",
+            "Quality Level": "66"
+          },
+          {
+            "Name": "Elder Staff",
+            "Two Hand Damage": "80 to 93 (86.5 Avg)",
+            "Level Requirement": "55",
+            "Min Strength": "44",
+            "Min Dexterity": "37",
+            "Rangeadder": "1",
+            "Durability": "35",
+            "Sockets": "4",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[0]\nFast",
+            "Quality Level": "74"
+          },
+          {
+            "Name": "Shillelagh",
+            "Two Hand Damage": "65 to 108 (86.5 Avg)",
+            "Level Requirement": "62",
+            "Min Strength": "52",
+            "Min Dexterity": "27",
+            "Rangeadder": "1",
+            "Durability": "40",
+            "Sockets": "4",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[0]\nFast",
+            "Quality Level": "83"
+          },
+          {
+            "Name": "Archon Staff",
+            "Two Hand Damage": "83 to 99 (91 Avg)",
+            "Level Requirement": "66",
+            "Min Strength": "34",
+            "Min Dexterity": "-",
+            "Rangeadder": "1",
+            "Durability": "26",
+            "Sockets": "6",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[10]\nNormal",
+            "Quality Level": "85"
+          }
+        ]
+      },
+      "swords": {
+        "items": [
+          {
+            "Name": "Falcata",
+            "Min/Max 1h Damage": "31 to 59 (45 Avg)",
+            "Level Requirement": "42",
+            "Min Strength": "150",
+            "Min Dexterity": "88",
+            "Rangeadder": "0",
+            "Durability": "24",
+            "Sockets": "2",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, P - Fast\nS - Normal",
+            "Quality Level": "56"
+          },
+          {
+            "Name": "Ataghan",
+            "Min/Max 1h Damage": "26 to 46 (36 Avg)",
+            "Level Requirement": "45",
+            "Min Strength": "138",
+            "Min Dexterity": "95",
+            "Rangeadder": "0",
+            "Durability": "22",
+            "Sockets": "2",
+            "Speed by Class": "[-20]\nAma, Asn, B, D, N, P - Very Fast\nS - Fast",
+            "Quality Level": "61"
+          },
+          {
+            "Name": "Elegant Blade",
+            "Min/Max 1h Damage": "33 to 45 (39 Avg)",
+            "Level Requirement": "47",
+            "Min Strength": "109",
+            "Min Dexterity": "122",
+            "Rangeadder": "0",
+            "Durability": "32",
+            "Sockets": "2",
+            "Speed by Class": "[-10]\nAsn, P - Very Fast\nAma, B, D, N, S - Fast",
+            "Quality Level": "63"
+          },
+          {
+            "Name": "Hydra Edge",
+            "Min/Max 1h Damage": "28 to 68 (48 Avg)",
+            "Level Requirement": "51",
+            "Min Strength": "142",
+            "Min Dexterity": "105",
+            "Rangeadder": "0",
+            "Durability": "32",
+            "Sockets": "2",
+            "Speed by Class": "[10]\nAsn, P - Fast\nAma, B, D, N, S - Normal",
+            "Quality Level": "69"
+          },
+          {
+            "Name": "Phase Blade",
+            "Min/Max 1h Damage": "31 to 35 (33 Avg)",
+            "Level Requirement": "54",
+            "Min Strength": "25",
+            "Min Dexterity": "136",
+            "Rangeadder": "1",
+            "Durability": "Indestructible",
+            "Sockets": "6",
+            "Speed by Class": "[-30]\nAma, Asn, B, D, N, P, S - Very Fast",
+            "Quality Level": "73"
+          },
+          {
+            "Name": "Conquest Sword",
+            "Min/Max 1h Damage": "37 to 53 (45 Avg)",
+            "Level Requirement": "58",
+            "Min Strength": "142",
+            "Min Dexterity": "112",
+            "Rangeadder": "0",
+            "Durability": "32",
+            "Sockets": "4",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, P - Fast\nS - Normal",
+            "Quality Level": "78"
+          },
+          {
+            "Name": "Cryptic Sword",
+            "Min/Max 1h Damage": "5 to 77 (41 Avg)",
+            "Level Requirement": "61",
+            "Min Strength": "99",
+            "Min Dexterity": "109",
+            "Rangeadder": "1",
+            "Durability": "44",
+            "Sockets": "4",
+            "Speed by Class": "[-10]\nAsn, P - Very Fast\nAma, B, D, N, S - Fast",
+            "Quality Level": "82"
+          },
+          {
+            "Name": "Mythical Sword",
+            "Min/Max 1h Damage": "40 to 50 (45 Avg)",
+            "Level Requirement": "66",
+            "Min Strength": "147",
+            "Min Dexterity": "124",
+            "Rangeadder": "1",
+            "Durability": "44",
+            "Sockets": "3",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, P - Fast\nS - Normal",
+            "Quality Level": "85"
+          }
+        ]
+      },
+      "throwings": {
+        "items": [
+          {
+            "Name": "Flying Knife",
+            "Throw Damage": "23 to 54 (38.5 Avg)",
+            "Min/Max 1h Damage": "23 to 54 (38.5 Avg)",
+            "Level Requirement": "48",
+            "Min Strength": "48",
+            "Min Dexterity": "141",
+            "Melee Rangeadder": "0",
+            "Max Stack": "200",
+            "Class": "Dagger",
+            "Speed by Class": "[0]\nAma, Asn, B, D, N, S - Fast\nP - Normal",
+            "Quality Level": "64"
+          },
+          {
+            "Name": "Winged Knife",
+            "Throw Damage": "23 to 39 (31 Avg)",
+            "Min/Max 1h Damage": "27 to 35 (31 Avg)",
+            "Level Requirement": "57",
+            "Min Strength": "45",
+            "Min Dexterity": "142",
+            "Melee Rangeadder": "0",
+            "Max Stack": "200",
+            "Class": "Dagger",
+            "Speed by Class": "[-20]\nAma, Asn B, D, N, S - Very Fast\nP - Fast",
+            "Quality Level": "77"
+          },
+          {
+            "Name": "Flying Axe",
+            "Throw Damage": "15 to 66 (40.5 Avg)",
+            "Min/Max 1h Damage": "17 to 65 (41 Avg)",
+            "Level Requirement": "42",
+            "Min Strength": "88",
+            "Min Dexterity": "108",
+            "Melee Rangeadder": "0",
+            "Max Stack": "180",
+            "Class": "Axe",
+            "Speed by Class": "[10]\nAsn, P - Fast\nAma, B, D, N, S - Normal",
+            "Quality Level": "56"
+          },
+          {
+            "Name": "Winged Axe",
+            "Throw Damage": "7 to 60 (33.5 Avg)",
+            "Min/Max 1h Damage": "11 to 56 (33.5 Avg)",
+            "Level Requirement": "60",
+            "Min Strength": "96",
+            "Min Dexterity": "122",
+            "Melee Rangeadder": "0",
+            "Max Stack": "180",
+            "Class": "Axe",
+            "Speed by Class": "[-10]\nAsn, P - Very Fast\nAma, B, D, N, S - Fast",
+            "Quality Level": "80"
+          }
+        ]
+      },
+      "wands": {
+        "items": [
+          {
+            "Name": "Polished Wand",
+            "Min/Max 1h Damage": "18 to 33 (25.5 Avg)",
+            "Level Requirement": "41",
+            "Min Strength": "25",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "22",
+            "Sockets": "2",
+            "Speed for Necromancer": "[0]\nFast",
+            "Quality Level": "55"
+          },
+          {
+            "Name": "Ghost Wand",
+            "Min/Max 1h Damage": "20 to 40 (30 Avg)",
+            "Level Requirement": "48",
+            "Min Strength": "25",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "14",
+            "Sockets": "2",
+            "Speed for Necromancer": "[10]\nNormal",
+            "Quality Level": "65"
+          },
+          {
+            "Name": "Lich Wand",
+            "Min/Max 1h Damage": "10 to 31 (20.5 Avg)",
+            "Level Requirement": "56",
+            "Min Strength": "25",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "17",
+            "Sockets": "2",
+            "Speed for Necromancer": "[-20]\nVery Fast",
+            "Quality Level": "75"
+          },
+          {
+            "Name": "Unearthed Wand",
+            "Min/Max 1h Damage": "22 to 28 (25 Avg)",
+            "Level Requirement": "64",
+            "Min Strength": "25",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "18",
+            "Sockets": "2",
+            "Speed for Necromancer": "[0]\nFast",
+            "Quality Level": "86"
+          }
+        ]
+      }
+    },
+    "class-specific-armor": {
+      "barbarian-helms": {
+        "items": [
+          {
+            "Name": "Carnage Helm",
+            "Min/Max Defense": "102-147",
+            "Level Required": "45",
+            "Min Strength": "106",
+            "Durability": "25",
+            "Sockets": "3",
+            "Quality Level": "60"
+          },
+          {
+            "Name": "Fury Visor",
+            "Min/Max Defense": "105-150",
+            "Level Required": "49",
+            "Min Strength": "129",
+            "Durability": "35",
+            "Sockets": "3",
+            "Quality Level": "66"
+          },
+          {
+            "Name": "Destroyer Helm",
+            "Min/Max Defense": "111-156",
+            "Level Required": "54",
+            "Min Strength": "151",
+            "Durability": "45",
+            "Sockets": "3",
+            "Quality Level": "73"
+          },
+          {
+            "Name": "Conqueror Crown",
+            "Min/Max Defense": "114-159",
+            "Level Required": "60",
+            "Min Strength": "174",
+            "Durability": "50",
+            "Sockets": "3",
+            "Quality Level": "80"
+          },
+          {
+            "Name": "Guardian Crown",
+            "Min/Max Defense": "117-168",
+            "Level Required": "65",
+            "Min Strength": "196",
+            "Durability": "55",
+            "Sockets": "3",
+            "Quality Level": "85"
+          }
+        ]
+      },
+      "druid-pelts": {
+        "items": [
+          {
+            "Name": "Blood Spirit",
+            "Min/Max Defense": "101-145",
+            "Level Required": "46",
+            "Min Strength": "86",
+            "Durability": "20",
+            "Sockets": "3",
+            "Quality Level": "62"
+          },
+          {
+            "Name": "Sun Spirit",
+            "Min/Max Defense": "98-147",
+            "Level Required": "51",
+            "Min Strength": "95",
+            "Durability": "20",
+            "Sockets": "3",
+            "Quality Level": "69"
+          },
+          {
+            "Name": "Earth Spirit",
+            "Min/Max Defense": "107-152",
+            "Level Required": "57",
+            "Min Strength": "104",
+            "Durability": "20",
+            "Sockets": "3",
+            "Quality Level": "76"
+          },
+          {
+            "Name": "Sky Spirit",
+            "Min/Max Defense": "103-155",
+            "Level Required": "62",
+            "Min Strength": "113",
+            "Durability": "20",
+            "Sockets": "3",
+            "Quality Level": "83"
+          },
+          {
+            "Name": "Dream Spirit",
+            "Min/Max Defense": "109-159",
+            "Level Required": "66",
+            "Min Strength": "118",
+            "Durability": "20",
+            "Sockets": "3",
+            "Quality Level": "85"
+          }
+        ]
+      },
+      "paladin-shields": {
+        "items": [
+          {
+            "Name": "Sacred Targe",
+            "Min/Max Defense": "126-158",
+            "Level Requirement": "47",
+            "Min Strength": "86",
+            "Durability": "45",
+            "% Block": "[30]\n60%",
+            "Sockets": "4",
+            "Paladin Smite Damage": "22 to 70",
+            "Type": "Light",
+            "Quality Level": "63"
+          },
+          {
+            "Name": "Sacred Rondache",
+            "Min/Max Defense": "138-164",
+            "Level Requirement": "52",
+            "Min Strength": "109",
+            "Durability": "68",
+            "% Block": "[28]\n58%",
+            "Sockets": "4",
+            "Paladin Smite Damage": "35 to 58",
+            "Type": "Light",
+            "Quality Level": "70"
+          },
+          {
+            "Name": "Kurast Shield",
+            "Min/Max Defense": "154-172",
+            "Level Requirement": "55",
+            "Min Strength": "124",
+            "Durability": "55",
+            "% Block": "[25]\n55%",
+            "Sockets": "4",
+            "Paladin Smite Damage": "10 to 82",
+            "Type": "Light",
+            "Quality Level": "74"
+          },
+          {
+            "Name": "Zakarum Shield",
+            "Min/Max Defense": "169-193",
+            "Level Requirement": "61",
+            "Min Strength": "142",
+            "Durability": "65",
+            "% Block": "[22]\n52%",
+            "Sockets": "4",
+            "Paladin Smite Damage": "46 to 46",
+            "Type": "Light",
+            "Quality Level": "82"
+          },
+          {
+            "Name": "Vortex Shield",
+            "Min/Max Defense": "182-225",
+            "Level Requirement": "66",
+            "Min Strength": "148",
+            "Durability": "90",
+            "% Block": "[19]\n49%",
+            "Sockets": "4",
+            "Paladin Smite Damage": "5 to 87",
+            "Type": "Light",
+            "Quality Level": "85"
+          }
+        ]
+      },
+      "necromancer-shrunken-heads": {
+        "items": [
+          {
+            "Name": "Minion Skull",
+            "Min/Max Defense": "95-139",
+            "Level Requirement": "44",
+            "Min Strength": "77",
+            "Durability": "20",
+            "% Block": "[3]\n23%",
+            "Sockets": "2",
+            "Type": "Light",
+            "Quality Level": "59"
+          },
+          {
+            "Name": "Hellspawn Skull",
+            "Min/Max Defense": "96-141",
+            "Level Requirement": "50",
+            "Min Strength": "82",
+            "Durability": "20",
+            "% Block": "[5]\n25%",
+            "Sockets": "2",
+            "Type": "Light",
+            "Quality Level": "67"
+          },
+          {
+            "Name": "Overseer Skull",
+            "Min/Max Defense": "98-142",
+            "Level Requirement": "49",
+            "Min Strength": "91",
+            "Durability": "20",
+            "% Block": "[8]\n28%",
+            "Sockets": "2",
+            "Type": "Light",
+            "Quality Level": "66"
+          },
+          {
+            "Name": "Succubus Skull",
+            "Min/Max Defense": "100-146",
+            "Level Requirement": "60",
+            "Min Strength": "95",
+            "Durability": "20",
+            "% Block": "[10]\n30%",
+            "Sockets": "2",
+            "Type": "Light",
+            "Quality Level": "81"
+          },
+          {
+            "Name": "Bloodlord Skull",
+            "Min/Max Defense": "103-148",
+            "Level Requirement": "65",
+            "Min Strength": "106",
+            "Durability": "20",
+            "% Block": "[12]\n32%",
+            "Sockets": "2",
+            "Type": "Light",
+            "Quality Level": "85"
+          }
+        ]
+      }
+    },
+    "class-specific-weapons": {
+      "amazon-weapons": {
+        "items": [
+          {
+            "Name": "Matriarchal Bow",
+            "Two Hand Damage": "20 To 47 (33.5 Avg)",
+            "Level Requirement": "39",
+            "Min Strength": "87",
+            "Min Dexterity": "187",
+            "Sockets": "5",
+            "Class": "Bow",
+            "Speed for Amazon": "[-10]\nFast",
+            "Quality Level": "53"
+          },
+          {
+            "Name": "Grand Matron Bow",
+            "Two Hand Damage": "14 To 72 (43 Avg)",
+            "Level Requirement": "58",
+            "Min Strength": "108",
+            "Min Dexterity": "152",
+            "Sockets": "5",
+            "Class": "Bow",
+            "Speed for Amazon": "[10]\nFast",
+            "Quality Level": "78"
+          }
+        ]
+      },
+      "assassin-katars": {
+        "items": [
+          {
+            "Name": "Suwayyah",
+            "Min/Max 1h Damage": "39 To 52 (45.5 Avg)",
+            "Level Requirement": "44",
+            "Min Strength": "99",
+            "Min Dexterity": "99",
+            "Rangeadder": "1",
+            "Durability": "48",
+            "Sockets": "3",
+            "+Skills": "Yes",
+            "Speed for Assassin": "[0]\nVery Fast",
+            "Quality Level": "59"
+          },
+          {
+            "Name": "Wrist Sword",
+            "Min/Max 1h Damage": "34 To 45 (39.5 Avg)",
+            "Level Requirement": "46",
+            "Min Strength": "105",
+            "Min Dexterity": "105",
+            "Rangeadder": "1",
+            "Durability": "56",
+            "Sockets": "3",
+            "+Skills": "Yes",
+            "Speed for Assassin": "[-10]\nVery Fast",
+            "Quality Level": "62"
+          },
+          {
+            "Name": "War Fist",
+            "Min/Max 1h Damage": "44 To 53 (48.5 Avg)",
+            "Level Requirement": "51",
+            "Min Strength": "108",
+            "Min Dexterity": "108",
+            "Rangeadder": "1",
+            "Durability": "64",
+            "Sockets": "2",
+            "+Skills": "Yes",
+            "Speed for Assassin": "[10]\nFast",
+            "Quality Level": "68"
+          },
+          {
+            "Name": "Battle Cestus",
+            "Min/Max 1h Damage": "36 To 42 (39 Avg)",
+            "Level Requirement": "54",
+            "Min Strength": "110",
+            "Min Dexterity": "110",
+            "Rangeadder": "1",
+            "Durability": "72",
+            "Sockets": "2",
+            "+Skills": "Yes",
+            "Speed for Assassin": "[-10]\nVery Fast",
+            "Quality Level": "73"
+          },
+          {
+            "Name": "Feral Claws",
+            "Min/Max 1h Damage": "22 To 53 (37.5 Avg)",
+            "Level Requirement": "58",
+            "Min Strength": "113",
+            "Min Dexterity": "113",
+            "Rangeadder": "1",
+            "Durability": "52",
+            "Sockets": "3",
+            "+Skills": "Yes",
+            "Speed for Assassin": "[-20]\nVery Fast",
+            "Quality Level": "78"
+          },
+          {
+            "Name": "Runic Talons",
+            "Min/Max 1h Damage": "24 To 44 (34 Avg)",
+            "Level Requirement": "60",
+            "Min Strength": "115",
+            "Min Dexterity": "115",
+            "Rangeadder": "1",
+            "Durability": "69",
+            "Sockets": "3",
+            "+Skills": "Yes",
+            "Speed for Assassin": "[-30]\nVery Fast",
+            "Quality Level": "81"
+          },
+          {
+            "Name": "Scissors Suwayyah",
+            "Min/Max 1h Damage": "40 To 51 (45.5 Avg)",
+            "Level Requirement": "64",
+            "Min Strength": "118",
+            "Min Dexterity": "118",
+            "Rangeadder": "1",
+            "Durability": "68",
+            "Sockets": "3",
+            "+Skills": "Yes",
+            "Speed for Assassin": "[0]\nVery Fast",
+            "Quality Level": "85"
+          }
+        ]
+      },
+      "sorceress-orbs": {
+        "items": [
+          {
+            "Name": "Heavenly Stone",
+            "Min/Max 1h Damage": "21 To 46 (33.5 avg)",
+            "Level Requirement": "44",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "20",
+            "Sockets": "2",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[-10]\nFast",
+            "Quality Level": "59"
+          },
+          {
+            "Name": "Eldritch Orb",
+            "Min/Max 1h Damage": "18 To 50 (34 avg)",
+            "Level Requirement": "50",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "30",
+            "Sockets": "2",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[-10]\nFast",
+            "Quality Level": "67"
+          },
+          {
+            "Name": "Demon Heart",
+            "Min/Max 1h Damage": "23 To 55 (39 avg)",
+            "Level Requirement": "56",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "35",
+            "Sockets": "2",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[0]\nNormal",
+            "Quality Level": "75"
+          },
+          {
+            "Name": "Vortex Orb",
+            "Min/Max 1h Damage": "12 To 66 (39 avg)",
+            "Level Requirement": "63",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "40",
+            "Sockets": "2",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[0]\nNormal",
+            "Quality Level": "84"
+          },
+          {
+            "Name": "Dimensional Shard",
+            "Min/Max 1h Damage": "30 To 53 (41.5 avg)",
+            "Level Requirement": "66",
+            "Min Strength": "-",
+            "Min Dexterity": "-",
+            "Rangeadder": "0",
+            "Durability": "50",
+            "Sockets": "3",
+            "Magic Level": "1",
+            "Speed for Sorceress": "[10]\nNormal",
+            "Quality Level": "85"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+.home-page {
+    font-size: 28px;
+    padding: 0px 10px;
+    background-image: url("./../../../images/home.jpg");
+    height: 100%;
+    position: relative;
+
+    &__main-text {
+        margin: auto;
+        font-family: "Exocet Blizzard", sans-serif;
+        color: #bd9b4e;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 48px;
+        word-spacing: 100vw;
+        text-align: center;
+    }
+}

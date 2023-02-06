@@ -1,0 +1,48 @@
+.sidenav {
+    height: 100%;
+    width: 216px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+    box-shadow: rgba(255, 255, 255, 0.05) 0px 0px 0px 1px, rgba(0, 0, 0, 0.66) 0px 0px 10px 5px inset, rgba(255, 255, 255, 0.2) 0px -3px 6px 0px inset, rgba(0, 0, 0, 0.2) 0px 0px 0px 2px inset;
+
+    .nav-button {
+        font-family: "Exocet Blizzard", sans-serif;
+        color: #bd9b4e;
+        text-align: center;
+        padding: 8px;
+        background-size: cover;
+        background-image: url("./../../../images/btn.jpg");
+        cursor: pointer;
+        text-decoration: none;
+        display: block;
+        margin-bottom: 4px;
+
+        &:hover {
+            background-image: url("./../../../images/btn-hover.jpg");
+        }
+
+        &--active {
+            color: #e9c964;
+            background-image: url("./../../../images/btn-selected.jpg");
+        }
+
+        &--disabled {
+            background-image: url("./../../../images/btn-disabled.jpg");
+
+            &:hover {
+                background-image: url("./../../../images/btn-disabled.jpg");
+            }
+        }
+
+    }
+
+}
+
+.main-content {
+    height: 100%;
+    margin-left: 216px;
+}

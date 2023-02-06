@@ -1,0 +1,11 @@
+@font-face {
+    font-display: swap;
+    font-family: "Exocet Blizzard";
+    font-style: normal;
+    font-weight: 500;
+    src: url("./fonts/blizzard-font.woff2") format("woff2"), url("./fonts/blizzard-font.woff2") format("woff");
+  }
+
+body {
+    background-image: url("./images/site-background.jpeg");
+}

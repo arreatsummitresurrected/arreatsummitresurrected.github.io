@@ -1,0 +1,202 @@
+{
+  "runes": [
+    {
+      "name": "El",
+      "weapon": "+50 To Attack Rating, +1 Light Radius",
+      "armors": "+15 Defense, +1 To Light Radius",
+      "level": "11"
+    },
+    {
+      "name": "Eld",
+      "weapon": "+75% Damage To Undead, +50 Attack Rating Against Undead",
+      "armors": "15% Slower Stamina Drain/7% Increased Chance of Blocking(Shields)",
+      "level": "11"
+    },
+    {
+      "name": "Tir",
+      "weapon": "+2 To Mana After Each Kill",
+      "armors": "+2 To Mana After Each Kill",
+      "level": "13"
+    },
+    {
+      "name": "Nef",
+      "weapon": "Knockback",
+      "armors": "+30 Defense Vs. Missile",
+      "level": "13"
+    },
+    {
+      "name": "Eth",
+      "weapon": "-25% To Target Defense",
+      "armors": "Regenerate Mana 15%",
+      "level": "15"
+    },
+    {
+      "name": "Ith",
+      "weapon": "+9 To Maximum Damage",
+      "armors": "15% Damage Taken Goes to Mana",
+      "level": "15"
+    },
+    {
+      "name": "Tal",
+      "weapon": "+75 Poison Damage Over 5 Seconds",
+      "armors": "Poison Resist 30%/Poison Resist 35%(Shields)",
+      "level": "17"
+    },
+    {
+      "name": "Ral",
+      "weapon": "Adds 5-30 Fire Damage",
+      "armors": "Fire Resist 30%/Fire Resist 35%(Shields)",
+      "level": "19"
+    },
+    {
+      "name": "Ort",
+      "weapon": "Adds 1-50 Lightning Damage",
+      "armors": "Lightning Resist 30%/Lightning Resist 35%(Shields)",
+      "level": "21"
+    },
+    {
+      "name": "Thul",
+      "weapon": "Adds 3-14 Cold Damage - 3 Second Duration",
+      "armors": "Cold Resist 30%/Cold Resist 35%(Shields)",
+      "level": "23"
+    },
+    {
+      "name": "Amn",
+      "weapon": "7% Life Stolen Per Hit",
+      "armors": "Attacker Takes Damage of 14",
+      "level": "25"
+    },
+    {
+      "name": "Sol",
+      "weapon": "+9 To Minimum Damage",
+      "armors": "Damage Reduced By 7",
+      "level": "27"
+    },
+    {
+      "name": "Shael",
+      "weapon": "20% Increased Attack Speed",
+      "armors": "20% Faster Hit Recovery/20% Faster Block Rate(Shields)",
+      "level": "29"
+    },
+    {
+      "name": "Dol",
+      "weapon": "Hit Causes Monster To Flee 25%",
+      "armors": "Replenish Life +7",
+      "level": "31"
+    },
+    {
+      "name": "Hel",
+      "weapon": "Requirements -20%",
+      "armors": "Requirements -15%",
+      "level": "-"
+    },
+    {
+      "name": "Io",
+      "weapon": "+10 To Vitality",
+      "armors": "+10 To Vitality",
+      "level": "35"
+    },
+    {
+      "name": "Lum",
+      "weapon": "+10 To Energy",
+      "armors": "+10 To Energy",
+      "level": "37"
+    },
+    {
+      "name": "Ko",
+      "weapon": "+10 To Dexterity",
+      "armors": "+10 To Dexterity",
+      "level": "39"
+    },
+    {
+      "name": "Fal",
+      "weapon": "+10 To Strength",
+      "armors": "+10 To Strength",
+      "level": "41"
+    },
+    {
+      "name": "Lem",
+      "weapon": "75% Extra Gold From Monsters",
+      "armors": "50% Extra Gold From Monsters",
+      "level": "43"
+    },
+    {
+      "name": "Pul",
+      "weapon": "+75% Damage To Demons, +100 Attack Rating Against Demons",
+      "armors": "+30% Enhanced Defense",
+      "level": "45"
+    },
+    {
+      "name": "Um",
+      "weapon": "25% Chance of Open Wounds",
+      "armors": "All Resistances +15(Armor/Helms) +22(Shields)",
+      "level": "47"
+    },
+    {
+      "name": "Mal",
+      "weapon": "Prevent Monster Heal",
+      "armors": "Magic Damage Reduced By 7",
+      "level": "49"
+    },
+    {
+      "name": "Ist",
+      "weapon": "30% Better Chance of Getting Magic Items",
+      "armors": "25% Better Chance of Getting Magic Items",
+      "level": "51"
+    },
+    {
+      "name": "Gul",
+      "weapon": "20% Bonus To Attack Rating",
+      "armors": "5% To Maximum Poison Resist",
+      "level": "53"
+    },
+    {
+      "name": "Vex",
+      "weapon": "7% Mana Stolen Per Hit",
+      "armors": "5% To Maximum Fire Resist",
+      "level": "55"
+    },
+    {
+      "name": "Ohm",
+      "weapon": "+50% Enhanced Damage",
+      "armors": "5% To Maximum Cold Resist",
+      "level": "57"
+    },
+    {
+      "name": "Lo",
+      "weapon": "20% Deadly Strike",
+      "armors": "5% To Maximum Lightning Resist",
+      "level": "59"
+    },
+    {
+      "name": "Sur",
+      "weapon": "Hit Blinds Target",
+      "armors": "Maximum Mana 5%/+50 To Mana (Shields)",
+      "level": "61"
+    },
+    {
+      "name": "Ber",
+      "weapon": "20% Chance of Crushing Blow",
+      "armors": "Damage Reduced by 8%",
+      "level": "63"
+    },
+    {
+      "name": "Jah",
+      "weapon": "Ignore Target's Defense",
+      "armors": "Increase Maximum Life 5%/+50 Life (Shields)",
+      "level": "65"
+    },
+    {
+      "name": "Cham",
+      "weapon": "Freeze Target +3",
+      "armors": "Cannot Be Frozen",
+      "level": "67"
+    },
+    {
+      "name": "Zod",
+      "weapon": "Indestructible",
+      "armors": "Indestructible",
+      "level": "69"
+    }
+  ]
+}
