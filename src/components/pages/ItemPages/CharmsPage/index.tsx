@@ -1,6 +1,7 @@
 import React from "react";
 import ContentLink from "../../../components/ContentLink";
 import Title from "../../../components/Title";
+import "./CharmsPage.scss";
 
 function CharmsPage() {
   return (
@@ -52,11 +53,81 @@ function CharmsPage() {
           Small Charms [
           <ContentLink
             title="Magic Prefixes and Suffixes"
+            url="/items/magic/smallcharms"
+          />
+          ]
+        </div>
+      </div>
+
+      <img
+        className="small-charm"
+        src="/images/charms/small_charm1.png"
+        alt="Small Charm"
+      />
+      <img
+        className="small-charm"
+        src="/images/charms/small_charm2.png"
+        alt="Small Charm"
+      />
+      <img
+        className="small-charm"
+        src="/images/charms/small_charm3.png"
+        alt="Small Charm"
+      />
+
+      <div className="text">
+        <div className="bold-text">
+          Medium Charms <span className="text">(Large Charms)</span> [
+          <ContentLink
+            title="Magic Prefixes and Suffixes"
             url="/items/magic/mediumcharms"
           />
           ]
         </div>
       </div>
+
+      <img
+        className="medium-charm"
+        src="/images/charms/medium_charm1.png"
+        alt="Medium Charm"
+      />
+      <img
+        className="medium-charm"
+        src="/images/charms/medium_charm2.png"
+        alt="Medium Charm"
+      />
+      <img
+        className="medium-charm"
+        src="/images/charms/medium_charm3.png"
+        alt="Medium Charm"
+      />
+
+      <div className="text">
+        <div className="bold-text">
+          Large Charms <span className="text">(Grand Charms)</span> [
+          <ContentLink
+            title="Magic Prefixes and Suffixes"
+            url="/items/magic/largecharms"
+          />
+          ]
+        </div>
+      </div>
+
+      <img
+        className="large-charm"
+        src="/images/charms/large_charm1.png"
+        alt="Small Charm"
+      />
+      <img
+        className="large-charm"
+        src="/images/charms/large_charm2.png"
+        alt="Small Charm"
+      />
+      <img
+        className="large-charm"
+        src="/images/charms/large_charm3.png"
+        alt="Small Charm"
+      />
     </>
   );
 }
