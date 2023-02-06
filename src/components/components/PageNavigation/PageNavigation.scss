@@ -1,0 +1,20 @@
+.page-navigation {
+    text-align: center;
+
+    a {
+        color: #928a70;
+        font-weight: bold;
+        font-family: Arial, Helvetica, Sans-Serif;
+        font-size: 13px;
+
+        &:hover {
+            color: #eee;
+        }
+    }
+
+    &__separator {
+        &:last-of-type {
+            display: none;
+        }
+    }
+}

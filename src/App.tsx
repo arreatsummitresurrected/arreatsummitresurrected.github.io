@@ -2,6 +2,7 @@ import React from "react";
 import {
   createBrowserRouter,
   createRoutesFromElements,
+  Navigate,
   Route,
   RouterProvider,
 } from "react-router-dom";
@@ -23,6 +24,7 @@ import CharmsPage from "./components/pages/ItemPages/CharmsPage";
 import TheHoradricCubePage from "./components/pages/ItemPages/TheHoradricCubePage";
 import ItemBasicPage from "./components/pages/ItemPages/ItemBasicPage";
 import HeaderAndLayout from "./components/components/HeaderAndLayout";
+import NonExistingPage from "./components/pages/NonExistingPage";
 
 let router = createBrowserRouter(
   createRoutesFromElements(
@@ -44,6 +46,8 @@ let router = createBrowserRouter(
         <Route path="charms" element={<CharmsPage />} />
         <Route path="cube" element={<TheHoradricCubePage />} />
       </Route>
+      <Route path="/404" element={<NonExistingPage />} />
+      <Route path="*" element={<Navigate replace to="/404" />} />
     </Route>,
   ),
 );

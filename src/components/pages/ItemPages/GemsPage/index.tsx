@@ -1,16 +1,7 @@
 import React from "react";
 import ContentLink from "../../../components/ContentLink";
-import HeaderAndLayout from "../../../components/HeaderAndLayout";
 import ItemsTable from "../../../components/ItemsTable";
 import Title from "../../../components/Title";
-
-interface Gem {
-  name: string;
-  reqLevel: string;
-  weapons: string;
-  shields: string;
-  armors: string;
-}
 
 function GemsPage() {
   const gemFields = ["name", "reqLevel", "weapons", "shields", "armors"];

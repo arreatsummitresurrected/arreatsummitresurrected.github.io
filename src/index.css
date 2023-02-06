@@ -24,6 +24,17 @@ code {
   font-weight: 400;
 }
 
+li,
+ul {
+  font-size: 13.3px;
+  font-family: Arial, Helvetica, Sans-Serif;
+}
+
 .bold-text {
   font-weight: 700;
+}
+
+.inner-text {
+  margin-left: 24px;
+  margin-right: 24px;
 }
