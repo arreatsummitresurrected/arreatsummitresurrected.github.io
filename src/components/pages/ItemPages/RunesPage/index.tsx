@@ -1,10 +1,13 @@
 import React from "react";
 import ColorText from "../../../components/ColorText";
 import ContentLink from "../../../components/ContentLink";
+import ItemsTable from "../../../components/ItemsTable";
 import Title from "../../../components/Title";
 import "./RunesPage.scss";
 
 function RunesPage() {
+  const runeData = require("./../../../../data/runes.json").runes as [Rune];
+
   return (
     <>
       <Title title="RUNES" />
@@ -61,7 +64,13 @@ function RunesPage() {
         .]
       </div>
 
-      <RuneTable />
+      <ItemsTable
+        items={runeData}
+        fields={["name", "weapon", "armors", "level"]}
+        fieldNames={["Name", "Weapon", "Armor/Helms/Shields", "Level"]}
+        imagePathPrefix={"/images/runes/"}
+        imageExtension={".jpeg"}
+      />
     </>
   );
 }
@@ -71,47 +80,6 @@ interface Rune {
   weapon: string;
   armors: string;
   level: string;
-}
-
-function RuneTable() {
-  const runeData = require("./../../../../data/runes.json").runes as [Rune];
-
-  const getRunesData = () => {
-    return runeData.map((rune) => {
-      return (
-        <tr className="rune-table__rune">
-          <td>
-            <img
-              className="rune-table__image"
-              src={"/images/runes/" + rune.name.toLocaleLowerCase() + ".jpeg"}
-              alt={rune.name}
-            />
-          </td>
-          <td>{rune.name}</td>
-          <td>{rune.weapon}</td>
-          <td>{rune.armors}</td>
-          <td>{rune.level}</td>
-        </tr>
-      );
-    });
-  };
-
-  return (
-    <div className="rune-table">
-      <table cellPadding={5}>
-        <thead className="rune-table__head">
-          <tr>
-            <td></td>
-            <td>Name</td>
-            <td>Weapon</td>
-            <td>Armor/Helms/Shields</td>
-            <td>Level</td>
-          </tr>
-        </thead>
-        <tbody>{getRunesData()}</tbody>
-      </table>
-    </div>
-  );
 }
 
 export default RunesPage;
