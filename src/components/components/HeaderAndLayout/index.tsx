@@ -11,21 +11,22 @@ interface HeaderLink {
 }
 
 const links = [
-  { link: "basics", text: "Item Basics" },
-  { link: "weaponsandarmor#normal", text: "Normal Items" },
-  { link: "weaponsandarmor#exceptional", text: "Exceptional Items" },
-  { link: "weaponsandarmor#elite", text: "Elite Items" },
-  { link: "socketeditems", text: "Socketed Items" },
-  { link: "gems", text: "Gems" },
-  { link: "jewels", text: "Jewels" },
-  { link: "runes", text: "Runes" },
-  { link: "runewords", text: "Rune words" },
-  { link: "magic", text: "Magic Items" },
-  { link: "crafteditems", text: "Crafted Items" },
-  { link: "sets", text: "Set Items" },
-  { link: "uniques", text: "Unique Items" },
-  { link: "charms", text: "Charms" },
-  { link: "cube", text: "The Horadric Cube" },
+  { link: "/basics", text: "Item Basics" },
+  { link: "/weaponsandarmor#normal", text: "Normal Items" },
+  { link: "/weaponsandarmor#exceptional", text: "Exceptional Items" },
+  { link: "/weaponsandarmor#elite", text: "Elite Items" },
+  { link: "/socketeditems", text: "Socketed Items" },
+  { link: "/gems", text: "Gems" },
+  { link: "/jewels", text: "Jewels" },
+  { link: "/runes", text: "Runes" },
+  { link: "/runewords", text: "Rune words" },
+  { link: "/magic", text: "Magic Items" },
+  { link: "/crafteditems", text: "Crafted Items" },
+  { link: "/sets", text: "Set Items" },
+  { link: "/uniques", text: "Unique Items" },
+  { link: "/charms", text: "Charms" },
+  { link: "/cube", text: "The Horadric Cube" },
+  { link: "", text: "Items Index" },
 ];
 
 function HeaderAndLayout() {
@@ -54,7 +55,7 @@ function HeaderLink(props: { link: string; text: string }) {
   return (
     <>
       <NavLink
-        to={"/items/" + props.link}
+        to={"/items" + props.link}
         className={(data) =>
           "header__link" + (data.isActive ? " header__link--active" : "")
         }
